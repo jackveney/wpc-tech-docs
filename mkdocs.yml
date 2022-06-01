@@ -1,0 +1,55 @@
+site_name: WPC Tech Docs
+
+repo_name: jackveney/wpc-tech-docs
+repo_url: https://github.com/jackveney/wpc-tech-docs
+edit_uri: ""
+
+site_description: Westminster Presbyterian Church Wooster, Ohio Technology Documentation
+site_author: Jack Veney
+theme:
+  name: material
+  custom_dir: material
+  features:
+    - navigation.tabs
+  logo: assets/WPC_logo.png
+  favicon: assets/WPC_logo.png
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+
+copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
+plugins:
+  - search:
+      lang: en
+  - redirects:
+      redirect_maps:
+        admin.md: Administration/index.md
+        catalog.md: Catalog/index.md
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      fallback_to_build_date: true 
+
+# Page tree
+#nav:
+#  - Home: index.md
+#  - Catalog:
+#    - Librarika: Catalog/index.md
+#  - Administration:
+#    - 'Home': 'Administration/index.md'
+#    - 'User Guide': 
+#      - 'Getting Started': 'Administration/getting-started.md'
+#      - 'OPAC': 'Administration/opacs.md'
+#      - 'Library': 'Administration/libraries.md'
+#      - 'Cataloging (Books)': 'Administration/cataloging.md'
+#      - 'Members (Patrons)': 'Administration/members.md'
+#      - 'Circulations (Loans)': 'Administration/circulations.md'
+#      - 'Fees & Payments': 'Administration/fees-payments.md'
+#      - 'Barcode Labels': 'Administration/barcode-labels.md'
+#      - 'Reports': 'Administration/reports.md'
+#      - 'Member Area': 'Administration/member-area.md'
+#      - 'Users': 'Administration/users.md'
+#      - 'Bulk Actions': 'Administration/bulk-actions.md'
+#    - 'Contributing': 'Administration/contribute.md'
+#    - 'About': 'Administration/about.md'
+#    - 'License': 'Administration/license.md'

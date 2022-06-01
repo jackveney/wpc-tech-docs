@@ -23,8 +23,6 @@ plugins:
       lang: en
   - redirects:
       redirect_maps:
-        admin.md: Administration/index.md
-        catalog.md: Catalog/index.md
   - minify:
       minify_html: true
   - git-revision-date-localized:

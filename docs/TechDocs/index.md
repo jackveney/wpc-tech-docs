@@ -6,7 +6,6 @@ Troop 61 Library Administration is a library system custom designed and built fo
  
 Website: [https://troop61killbuck.org/library/](https://troop61killbuck.org/library/)
 
-Please contribute to improve this document. See our [contribute](contribute.md) section for more detail.
 
 ---
 

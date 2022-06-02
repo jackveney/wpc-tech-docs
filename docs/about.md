@@ -7,7 +7,6 @@ The library management system has two different interfaces:
  
 To visit the library homepage go to [https://troop61killbuck.org/library/](https://troop61killbuck.org/library/)
 
-Please contribute to improve this document. See our [contribute](contribute.md) section for more detail.
 
 ---
 

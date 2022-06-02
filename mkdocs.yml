@@ -8,7 +8,7 @@ site_description: Westminster Presbyterian Church Wooster, Ohio Technology Docum
 site_author: Jack Veney
 theme:
   name: material
-  custom_dir: material
+  custom_dir: material/
   features:
     - navigation.tabs
   logo: assets/WPC_logo.png

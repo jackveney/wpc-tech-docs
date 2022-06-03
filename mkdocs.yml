@@ -32,9 +32,9 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Catalog:
-    - Librarika: TechDocs/index.md
-    - Test: TechDocs/listing.md
+  - Technology Documentation:
+    - Home: TechDocs/index.md
+    - Parts Listing: TechDocs/parts-listing.md
 #  - Administration:
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

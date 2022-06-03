@@ -33,7 +33,8 @@ plugins:
 nav:
   - Home: index.md
   - Catalog:
-    - Librarika: Catalog/index.md
+    - Librarika: TechDocs/index.md
+    - Test: TechDocs/listing.md
 #  - Administration:
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

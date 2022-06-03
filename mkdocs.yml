@@ -33,6 +33,9 @@ plugins:
       media_type: print
       combined: true
 
+extra_css:
+    - css/extra.css
+    
 # Page tree
 nav:
   - Home: index.md

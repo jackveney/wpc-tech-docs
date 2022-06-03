@@ -1,7 +1,12 @@
 # Listing of Technology Hardware Parts
 
 ## Computer
-- Dell XPS
+- Dell XPS 8940
+  - Intel Core i7-10700 2.9GHz Processor
+  - NVIDIA GeForce GTX 1660 Super 6GB GDDR6
+  - 32GB DDR4-2933 RAM
+  - 1TB NVMe M.2 SSD
+  - Purchased February 2021
 
 --- 
 

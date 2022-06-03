@@ -1,7 +1,7 @@
 # Listing of Technology Hardware Parts
 
 ## Computer
-### Dell XPS 8940
+### Dell XPS 8940 Gaming Desktop
 - Intel Core i7-10700 2.9GHz Processor
 - NVIDIA GeForce GTX 1660 Super 6GB GDDR6
 - 32GB DDR4-2933 RAM
@@ -24,3 +24,25 @@
 - ***Purchased February 2021***
 ### Elgato Stream Deck
 - ***Purchased May 2021***
+
+## Cameras
+### Mevo Start
+- ***Set of Three Purchased May 2022***
+### PTZOptics 20X-NDI Broadcast and Conference Camera
+- ***Purchased May 2022***
+
+## Sound System & Projector
+### Apple iPad
+- ***Purchased xxx***
+
+---
+
+## Technology Not In Service
+### Canon VIXIA HF R800
+- ***Purchased November/December 2020***
+### Dell xxx Laptop
+- ***Purchased xxx***
+### Basic Capture Card
+- ***Purchased xxx***
+### AVerMedia Live Gamer Mini
+- ***Purchased xxx***

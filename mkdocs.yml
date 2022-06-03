@@ -43,6 +43,7 @@ nav:
   - Technology Documentation:
     - Home: TechDocs/index.md
     - Part Listing: TechDocs/parts-listing.md
+    - Proclaim Fix: TechDocs/fixing-proclaim.md
 #  - Administration:
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

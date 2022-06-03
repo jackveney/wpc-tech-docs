@@ -28,6 +28,7 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true 
+  - pdf-export
 
 # Page tree
 nav:

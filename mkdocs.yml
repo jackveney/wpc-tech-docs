@@ -31,7 +31,6 @@ plugins:
   - pdf-export:
       verbose: true
       media_type: print
-      enabled_if_env: 1
       combined: true
 
 # Page tree

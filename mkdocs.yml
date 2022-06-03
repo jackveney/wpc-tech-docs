@@ -31,11 +31,12 @@ plugins:
   - pdf-export:
       verbose: true
       media_type: print
+      enabled_if_env: ENABLE_PDF_EXPORT
       combined: true
 
 extra_css:
     - css/extra.css
-    
+
 # Page tree
 nav:
   - Home: index.md

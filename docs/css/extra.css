@@ -1,4 +1,4 @@
-@page {
+/*@page {
     size: letter portrait;
     margin: 25mm 10mm 25mm 10mm;
     counter-increment: page;
@@ -14,4 +14,4 @@
     @top-right {
         content: 'Page ' counter(page);
     }
-}
+}*/

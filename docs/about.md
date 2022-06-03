@@ -10,8 +10,4 @@ This document is a work in progress. Please ignore if there is any gramartical m
 know so that we can correct them accordingly.
 
 
-For any questions or comments, please us the contact us form <table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>.
+For any questions or comments, please [email me](mailto:jackveney03@gmail.com).

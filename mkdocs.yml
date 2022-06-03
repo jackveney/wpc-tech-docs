@@ -35,7 +35,7 @@ nav:
   - Home: index.md
   - Technology Documentation:
     - Home: TechDocs/index.md
-    - Parts Listing: TechDocs/parts-listing.md
+    - Part Listing: TechDocs/parts-listing.md
 #  - Administration:
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

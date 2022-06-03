@@ -5,7 +5,7 @@
 
 MIT License
 
-Copyright (c) 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
+Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

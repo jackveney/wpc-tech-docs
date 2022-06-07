@@ -22,7 +22,7 @@ OBS Studio and capturing Proclaim is currently having some issues that an effect
   ![OBS Mevo Camera Scenes](../assets/images/fixing-proclaim/proclaim-mevo.png)
  - If not, follow steps two and three again in the three Mevo scenes.
 
-### 45. "Full Proclaim" Fix
+### 4. "Full Proclaim" Fix
  - Navigate to the "Full Proclaim" scene.
   ![OBS Full Proclaim](../assets/images/fixing-proclaim/proclaim-full.png)
  - Follow steps two and three again for the "Proclaim (temp) 2" item.

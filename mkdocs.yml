@@ -17,6 +17,9 @@ theme:
     repo: fontawesome/brands/github
   language: en
 
+markdown_extensions:
+  - tables
+
 copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 plugins:
   - search:

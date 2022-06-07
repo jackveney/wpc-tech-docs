@@ -1,6 +1,6 @@
 # Switching The Computer To COW Internet
 For livestreaming, we use the College of Wooster internet as it gives up to 1000/1000 Mbps (gigabit speeds), rather than the Church MCTV speeds of up to 50/5 Mbps. Follow the instructions below to switch the internet.
----
+
 ---
 1.	Go to the back of room where access points are (next to the left kitchen door, underneath the PTZ camera) and unplug the top grey cable labelled “Church AP” from the ethernet ports on the wall
  - This unplugs the church access point

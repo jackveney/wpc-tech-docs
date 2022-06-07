@@ -60,7 +60,7 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
   ![Windows Open](../assets/images/setting-up-powering-on/windows-open.png)
 
 ## 11. Power on and Place Mevo Cameras
- - Power on the Mevo Cameras you chose by holding the power button on the back of the camera until it beeps.
+ - Power on the Mevo Cameras by holding the power button until it beeps.
     ![Mevo Power](../assets/images/setting-up-powering-on/mevo-back%400.5x.png)
  - After you power each of these on, you should be able to see them on the right desktop monitor.
  - Place the cameras as you desire.

@@ -12,9 +12,7 @@ It can be necessary to change the audio output between the center monitor and th
  - Just above the volume slider, select the menu to bring up all the audio output devices.
  - This will show one of the following devices:
     - Intel(R) Display Audio HDMI 2 (Intel(R) Display Audio)
-        - *HDMI Output for Projector and Sound System*
     - DELL S2721H (NVIDIA High Definition Audio)
-        - *HDMI Output for Center Monitor Video and Audio*
  - After opening the dropdown, it will show all audio output devices.
  ![Output Devices](../assets/images/audio-output/audio-devices.png)
 

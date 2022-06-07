@@ -18,3 +18,18 @@ This page explains the meanings of each icon on the stream deck.
 |:---:|:---:|:---:|:---:|:---:|
 | Record | Stream | Virtual Camera |  | Camera Presets |
 | Start recording from OBS Studio instances | Start streaming from OBS Studio to Youtube and Facebook | Start virtual camera for use in OBS All Cameras view |  | Access folder for camera presets (below) |
+
+---
+
+| ![](../assets/images/stream-deck/back.png) | ![](../assets/images/stream-deck/home.png) | ![](../assets/images/stream-deck/full_front.png) | ![](../assets/images/stream-deck/pulpit.png) | ![](../assets/images/stream-deck/table.png) |
+|:---:|:---:|:---:|:---:|:---:|
+| Back | Home | Full Front | Pulpit | Table |
+| Back to Main Menu | Home position of camera, completely zoomed out | View of the entire front setup | View of pulpit | Zoomed in view of just the table |
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+|  |  |  |  |  |

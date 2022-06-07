@@ -39,11 +39,12 @@ extra_css:
 
 # Page tree
 #nav:
-#  - Home: index.md
-#  - Technology Documentation:
-#    - Home: TechDocs/index.md
-#    - Part Listing: TechDocs/parts-listing.md
-#    - Proclaim Fix: TechDocs/fixing-proclaim.md
+ - Home: index.md
+  - Technology Documentation:
+    - Home: TechDocs/index.md
+    - Part Listing: TechDocs/parts-listing.md
+    - Proclaim Fix: TechDocs/fixing-proclaim.md
+    - Computer Internet: TechDocs/internet.md
 #  - Administration:
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

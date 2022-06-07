@@ -7,6 +7,7 @@
  - 32GB DDR4-2933 RAM
  - 1TB NVMe M.2 SSD
  - ***Purchased February 2021***
+ ![Dell XPS 8940 Gaming Desktop](../assets/images/dell_xps_desktop.jpg)
 #### Upgrades
 - Elgato Game Capture HD60 Pro
   - ***Purchased Summer 2021***

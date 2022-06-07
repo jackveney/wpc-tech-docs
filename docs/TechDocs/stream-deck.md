@@ -4,6 +4,8 @@ This page explains the meanings of each icon on the stream deck.
 
 ---
 
+## Main Menu
+
 | ![](../assets/images/stream-deck/rear_camera.png) | ![](../assets/images/stream-deck/congregation.png) | ![](../assets/images/stream-deck/mevo_2.png) | ![](../assets/images/stream-deck/mevo_3.png) | ![](../assets/images/stream-deck/proclaim.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | Rear Camera | Congregation Camera | Mevo Camera 2 | Mevo Camera 3 | Full Proclaim |
@@ -21,15 +23,9 @@ This page explains the meanings of each icon on the stream deck.
 
 ---
 
+## Camera Presets Menu
+
 | ![](../assets/images/stream-deck/back.png) | ![](../assets/images/stream-deck/home.png) | ![](../assets/images/stream-deck/full_front.png) | ![](../assets/images/stream-deck/pulpit.png) | ![](../assets/images/stream-deck/table.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | Back | Home | Full Front | Pulpit | Table |
 | Back to Main Menu | Home position of camera, completely zoomed out | View of the entire front setup | View of pulpit | Zoomed in view of just the table |
-
-|  |  |  |  |  |
-|---|---|---|---|---|
-|  |  |  |  |  |
-
-|  |  |  |  |  |
-|---|---|---|---|---|
-|  |  |  |  |  |

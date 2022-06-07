@@ -9,7 +9,7 @@
  - Keyboard
  - Mouse
  - ***Purchased February 2021***
- - ![Dell XPS 8940 Gaming Desktop](../assets/images/dell_xps_desktop.jpg)
+ ![Dell XPS 8940 Gaming Desktop](../assets/images/dell_xps_desktop.jpg)
 #### Upgrades
 - Elgato Game Capture HD60 Pro
   - ***Purchased Summer 2021***

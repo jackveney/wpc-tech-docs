@@ -39,7 +39,7 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
  - Return the remote to the drawer.
 
 ## 8. Choose Mevo Cameras To Use
- - From the Mevo / iPad storage location, choose which Mevo Cameras you want to use for the service.
+ - From the Mevo / iPad storage location, choose which Mevo Cameras you want to use.
  ![Mevo Storage](../assets/images/setting-up-powering-on/mevos-ipad%400.1x.png)
  - Unplug the cameras you chose and put them on the stands located to the right of the sound system rack.
 

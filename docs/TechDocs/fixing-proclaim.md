@@ -32,7 +32,7 @@ OBS Studio and capturing Proclaim is currently having some issues that an effect
   ![OBS Proclaim Muted](../assets/images/fixing-proclaim/proclaim-muted.png)
  - Follow steps two and three again for the "Proclaim (temp) 3" item.
 
-### 6. OBS All Cameras 
+### 6. "WPC All" Fix
  - In the OBS All Cameras Instance, do the following for the "WPC All" scene.
   ![OBS WPC All](../assets/images/fixing-proclaim/proclaim-all.png)
  - Follow steps two and three again for the "proclaim )temp)" item.

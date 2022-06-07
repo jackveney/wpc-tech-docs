@@ -19,8 +19,8 @@ It can be necessary to change the audio output between the center monitor and th
  ![Output Devices](../assets/images/audio-output/audio-devices.png)
 
 ## 3. Select Output Location
- - According to the list below, select where you want the audio to be output to
+ - According to the list below, select where you want the audio to be output to:
 
-| Sound System | Desktop Monitor |
-|--------------|-----------------|
-| Intel(R) Display Audio HDMI 2 (Intel(R) Display Audio)           | DELL S2721H (NVIDIA High Definition Audio)              |
+    | Sound System | Desktop Monitor |
+    |--------------|-----------------|
+    | Intel(R) Display Audio HDMI 2 (Intel(R) Display Audio)           | DELL S2721H (NVIDIA High Definition Audio)              |

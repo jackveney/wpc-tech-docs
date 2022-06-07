@@ -4,7 +4,7 @@ For livestreaming, we use the College of Wooster internet as it gives up to 1000
 ---
 ### 1.	Go to the back of room where access points are (next to the left kitchen door, underneath the PTZ camera) and unplug the top grey cable labelled “Church AP” from the ethernet ports on the wall
  - This unplugs the church access point
-
+ 
 ### 2. Get master key from box in copy room
  - The key is labelled “All Interior Doors”
  - The key box passcode is the Wooster area code

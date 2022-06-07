@@ -31,7 +31,7 @@ plugins:
   - pdf-export:
       verbose: true
       media_type: print
-      enabled_if_env: ENABLE_PDF_EXPORT
+#      enabled_if_env: ENABLE_PDF_EXPORT
 #      combined: true
 
 extra_css:
@@ -39,7 +39,7 @@ extra_css:
 
 # Page tree
 nav:
- - Home: index.md
+  - Home: index.md
   - Technology Documentation:
     - Home: TechDocs/index.md
     - Part Listing: TechDocs/parts-listing.md

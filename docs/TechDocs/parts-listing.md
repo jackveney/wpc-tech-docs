@@ -6,31 +6,38 @@
  - NVIDIA GeForce GTX 1660 Super 6GB GDDR6
  - 32GB DDR4-2933 RAM
  - 1TB NVMe M.2 SSD
+ - Keyboard
+ - Mouse
  - ***Purchased February 2021***
  ![Dell XPS 8940 Gaming Desktop](../assets/images/dell_xps_desktop.jpg)
 #### Upgrades
 - Elgato Game Capture HD60 Pro
   - ***Purchased Summer 2021***
+   ![Elgato Game Capture HD60 Pro](../assets/images/hd_60_pro.jpg)
 - TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card
   - ***Purchased May 2022***
+  ![TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card](../assets/images/ethernet_pci_express.jpg)
 
 ## Peripherals & Monitors
 ### Dell SE2417HGX
  - 24" Monitor
  - ***Two Purchased February 2021***
+ ![Dell SE2417HGX](../assets/images/dell_24_monitor.jpg)
 ### Dell S2721H
  - 27" Monitor with Built-in Speakers
  - ***Purchased May 2022***
-### Dell Keyboard and Mouse
- - ***Purchased February 2021***
+ ![Dell S2721H](../assets/images/dell_27_monitor.jfif)
 ### Elgato Stream Deck
  - ***Purchased May 2021***
+ ![Elgato Stream Deck](../assets/images/stream_deck.jpg)
 
 ## Cameras
 ### Mevo Start
  - ***Set of Three Purchased May 2022***
+ ![Mevo Start](../assets/images/mevo_start_3x.jpg)
 ### PTZOptics 20X-NDI Broadcast and Conference Camera
  - ***Purchased May 2022***
+ ![PTZOptics 20X-NDI Broadcast and Conference Camera](../assets/images/ptz_camera.jpg)
 
 ## Sound System & Projector
 ### Apple iPad

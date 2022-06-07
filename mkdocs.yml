@@ -6,16 +6,16 @@ edit_uri: ""
 
 site_description: Westminster Presbyterian Church Wooster, Ohio Technology Documentation
 site_author: Jack Veney
-theme:
-  name: material
-  custom_dir: material/
-  features:
-    - navigation.tabs
-  logo: assets/WPC_logo.png
-  favicon: assets/WPC_logo.png
-  icon:
-    repo: fontawesome/brands/github
-  language: en
+#theme:
+#  name: material
+#  custom_dir: material/
+#  features:
+#    - navigation.tabs
+#  logo: assets/WPC_logo.png
+#  favicon: assets/WPC_logo.png
+#  icon:
+#    repo: fontawesome/brands/github
+#  language: en
 
 copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 plugins:

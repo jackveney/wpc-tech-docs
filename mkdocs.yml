@@ -48,7 +48,7 @@ nav:
     - Home: TechDocs/index.md
     - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
     - Fixing Proclaim for OBS Studio: TechDocs/fixing-proclaim.md
-    - Fixing Proclaim for OBS Studio: TechDocs/audio-output.md
+    - Changing Audio Output Device: TechDocs/audio-output.md
     - Switching To COW Internet: TechDocs/internet.md
     - Switching To Church Internet: TechDocs/internet-2.md
     - Setting Up and Powering On: TechDocs/setting-up-powering-on.md

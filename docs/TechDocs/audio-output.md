@@ -4,11 +4,11 @@ It can be necessary to change the audio output between the center monitor and th
 
 ---
 
-## 1. Speaker Icon
+## 1. Select Speaker Icon
  - Click the speaker icon in the bottom right of the center screen to open the volume settings.
  ![Speaker Icon](../assets/images/audio-output/speaker.png)
 
-## 2. Playback Device Dropdown
+## 2. Select Playback Device Dropdown
  - Just above the volume slider, select the menu to bring up all the audio output devices.
  - This will show one of the following devices:
     - Intel(R) Display Audio HDMI 2 (Intel(R) Display Audio)

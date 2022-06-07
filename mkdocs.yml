@@ -42,9 +42,10 @@ nav:
   - Home: index.md
   - Technology Documentation:
     - Home: TechDocs/index.md
-    - Part Listing: TechDocs/parts-listing.md
-    - Proclaim Fix: TechDocs/fixing-proclaim.md
-    - Computer Internet: TechDocs/internet.md
+    - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
+    - Proclaim Fix for Livestreaming: TechDocs/fixing-proclaim.md
+    - Switching To COW Internet: TechDocs/internet.md
+    - Switching To Church Internet: TechDocs/internet-2.md
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

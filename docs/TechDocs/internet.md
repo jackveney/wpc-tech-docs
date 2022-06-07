@@ -29,7 +29,7 @@ For livestreaming, we use the College of Wooster internet as it gives up to 1000
  - Return the master key to the box in the copy room
 
 ### 7. Return to Mackey Hall
- - Return to Mackey Hall to complete the finishing step
+ - Return to Mackey Hall to complete the final step
 
 ### 8. Plug-in Computer Ethernet Cable
 - Plug the white cable labelled “Computer Ethernet” into the top port that was left empty in step 1

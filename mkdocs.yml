@@ -46,8 +46,6 @@ theme:
   icon:
     repo: fontawesome/brands/github
   language: en
-  palette: 
-    primary: red
 
 markdown_extensions:
   - tables

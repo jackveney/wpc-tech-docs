@@ -61,7 +61,7 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
  - Press the power button in the bottom right of it. It will stay partway in and turn blue when on.
 
 ## 12. Connect iPad to Sound System
- - Follow the steps [here](ipad-sound-system.md) to connect to the sound system.
+ - Follow the steps [here](ipad-sound-system.md/#4-open-master-fader) to connect to the sound system.
 
 ## 13. Set Out Microphones
  - Place the pulpit microphone in the pulpit

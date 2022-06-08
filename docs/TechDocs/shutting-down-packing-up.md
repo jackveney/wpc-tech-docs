@@ -51,3 +51,9 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
  <br>![Amplifier](../assets/images/setting-up-powering-on/sound-system-rack-amplifier%400_3.png)
  - Press the power button in the bottom right of it. It will click back out and the light on it will turn off.
 
+## 11. Return Microphones
+ - Return the pulpit microphone to the drawer
+ <br>![Pulpit](../assets/images/setting-up-powering-on/pulpit%400.1x.png)
+ - Retrieve the microphones for the piano and organ and return them to their bags.
+  <br>![Microphone Bags Labelled](../assets/images/setting-up-powering-on/mic-bags-labelled%400.1x.png)
+ - Return the stands to where you got them and the microphones in their bags to the drawer

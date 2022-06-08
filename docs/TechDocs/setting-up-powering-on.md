@@ -63,7 +63,19 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
 ## 12. Connect iPad to Sound System
  - Follow the steps [here](ipad-sound-system.md) to connect to the sound system.
 
-## 13. Open Computer Programs
+## 13. Set Out Microphones
+ - Place the pulpit microphone in the pulpit
+ <br>![Pulpit](../assets/images/setting-up-powering-on/pulpit%400.1x.png)
+ - Verify the handheld and lapel microphones are in the pulpit.
+ <br>![Handheld/Lapel](../assets/images/setting-up-powering-on/lapel-handheld%400.1x.png)
+ - Retrieve the microphones for the piano and organ. They are located in the drawer with remotes in black bags.
+  <br>![Microphone Bags](../assets/images/setting-up-powering-on/mic-bags%400.1x.png)
+ - Place the piano and organ microphones.
+ <br>![Labelled Microphones](../assets/images/setting-up-powering-on/mics-labelled%400.1x.png)
+   - The piano microphone will go in the piano once it is opened up. Just behind the music stand, approximately center. The cable is already attached to the piano microphone stand
+   - The organ microphone will go near the desk pointed up toward the organ speakers above the chair closet. The stand is near the other microphone stand. The cable is on the floor near the sound system rack. Bring it under the door and connect it to the microphone.
+
+## 14. Open Computer Programs
  - On the computer open the following programs from the desktop.
     - OBS Studio
     - OBS All Cameras

@@ -1,10 +1,16 @@
-{#-
-  This file was automatically generated - do not edit
--#}
 {% extends "base.html" %}
+
+<!-- Custom front matter -->
 {% block extrahead %}
-  <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.82a244a8.min.css' | url }}">
+
+  <!-- Extra style sheets (can't be set in mkdocs.yml due to content hash) -->
+  <link
+    rel="stylesheet"
+    href="{{ 'overrides/assets/stylesheets/main.css' | url }}"
+  />
 {% endblock %}
+
+<!-- Announcement bar -->
 {% block announce %}
   <a href="https://twitter.com/squidfunk">
     For updates follow <strong>@squidfunk</strong> on
@@ -14,10 +20,16 @@
     <strong>Twitter</strong>
   </a>
 {% endblock %}
+
+<!-- Content -->
 {% block content %}
   {% include "overrides/partials/content.html" %}
 {% endblock %}
+
+<!-- Theme-related JavaScript -->
 {% block scripts %}
   {{ super() }}
-  <script src="{{ 'overrides/assets/javascripts/bundle.1ff6d521.min.js' | url }}"></script>
+
+  <!-- Extra JavaScript (can't be set in mkdocs.yml due to content hash) -->
+  <script src="{{ 'overrides/assets/javascripts/bundle.js' | url }}"></script>
 {% endblock %}

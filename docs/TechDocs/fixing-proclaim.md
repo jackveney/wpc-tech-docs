@@ -20,19 +20,19 @@ OBS Studio and capturing Proclaim is currently having some issues that an effect
 ## 3. Verify Mevo Scenes
  - Verify that Proclaim shows up in the three Mevo scenes.
   ![OBS Mevo Camera Scenes](../assets/images/fixing-proclaim/proclaim-mevo.png)
- - If not, follow steps two and three again in the three Mevo scenes.
+ - If not, follow step 2 again in the three Mevo scenes.
 
 ## 4. "Full Proclaim" Fix
  - Navigate to the "Full Proclaim" scene.
   ![OBS Full Proclaim](../assets/images/fixing-proclaim/proclaim-full.png)
- - Follow steps two and three again for the "Proclaim (temp) 2" item.
+ - Follow step 2 again for the "Proclaim (temp) 2" item.
 
 ## 5. "Proclaim Muted" Fix
  - Navigate to the "Proclaim Muted" scene.
   ![OBS Proclaim Muted](../assets/images/fixing-proclaim/proclaim-muted.png)
- - Follow steps two and three again for the "Proclaim (temp) 3" item.
+ - Follow step 2 again for the "Proclaim (temp) 3" item.
 
 ## 6. "WPC All" Fix
  - In the OBS All Cameras Instance, do the following for the "WPC All" scene.
   ![OBS WPC All](../assets/images/fixing-proclaim/proclaim-all.png)
- - Follow steps two and three again for the "proclaim )temp)" item.
+ - Follow step 2 again for the "proclaim )temp)" item.

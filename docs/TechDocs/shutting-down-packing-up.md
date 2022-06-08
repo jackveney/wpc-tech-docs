@@ -35,21 +35,17 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
  <br>![PTZ Camera Light](../assets/images/setting-up-powering-on/ptz-camera.png)
  - Return the remote to the drawer.
 
-## 8. Choose Mevo Cameras To Use
- - From the Mevo / iPad storage location, choose which Mevo Cameras you want to use.
- <br>![Mevo Storage](../assets/images/setting-up-powering-on/mevos-ipad%400.1x.png)
- - Unplug the cameras you chose and put them on the stands located to the right of the sound system rack.
-
-## 9. Return and Turn Off iPad
+## 8. Return and Turn Off iPad
  - Return the iPad to the storage location, plug it in, and power it off.
  <br>![iPad Storage](../assets/images/setting-up-powering-on/mevos-ipad%400.1x.png)
 
-## 10. Power Off and Return Mevo Cameras
+## 9. Power Off and Return Mevo Cameras
  - Power off the Mevo Cameras by holding the power button until it beeps. It will beep once to acknowldge you want to turn it off, wait a second, and then again as it turns off. Release the power button after the first beep.
     <br>![Mevo Power](../assets/images/setting-up-powering-on/mevo-back%400.5x.png)
  - Return the cameras to their storage location and plug in.
+ - Return the stands to their storage location.
 
-## 11. Turn Off Sound System Amplifier
+## 10. Turn Off Sound System Amplifier
  - Turn off the amplifier on the sound system rack to turn off sound output from the mircophones.
  - The amplifier is the third most bottom thing on the sound system rack.
  <br>![Amplifier](../assets/images/setting-up-powering-on/sound-system-rack-amplifier%400_3.png)

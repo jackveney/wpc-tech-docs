@@ -1,4 +1,4 @@
-# Setting Up and Powering On Computer / Cameras / Sound System / Projector
+# Shutting Down and Packing Up Computer / Cameras / Sound System / Projector
 
 Follow the instructions below to get the computer, cameras, sound system, and projector ready to use for the service.
 
@@ -8,7 +8,7 @@ Follow the instructions below to get the computer, cameras, sound system, and pr
  - Close all the computer programs.
 
 ## 2. Power off the Computer
- - Power off the computer by going Windows -> Power -> Shut Down
+ - Power off the computer by going Windows Logo -> Power -> Shut Down
 
 ## 3. Switch Off Power Strip
  - The computer will click once after turning if off. After this, it is safe to turn off the power strip

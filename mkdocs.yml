@@ -2,7 +2,7 @@ site_name: WPC Technology Documentation
 
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
-edit_url: 
+edit_uri: ""
 
 site_description: Westminster Presbyterian Church Wooster, Ohio Technology Documentation
 site_author: Jack Veney

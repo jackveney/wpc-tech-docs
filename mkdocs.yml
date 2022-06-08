@@ -4,7 +4,7 @@ repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
 edit_uri: ""
 
-site_description: Westminster Presbyterian Church Wooster, Ohio Technology Documentation
+site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
 site_author: Jack Veney
 theme:
   name: material

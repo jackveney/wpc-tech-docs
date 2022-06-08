@@ -33,13 +33,13 @@ theme:
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to light mode
   logo: assets/WPC_logo.png
   favicon: assets/WPC_logo.png

@@ -28,4 +28,4 @@ This page explains the meanings of each icon on the stream deck.
 | ![](../assets/images/stream-deck/back.png) | ![](../assets/images/stream-deck/home.png) | ![](../assets/images/stream-deck/full_front.png) | ![](../assets/images/stream-deck/pulpit.png) | ![](../assets/images/stream-deck/table.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | Back | Home | Full Front | Pulpit | Table |
-| Back to Main Menu | Home position of camera, completely zoomed out | View of the entire front setup | View of pulpit | Zoomed in view of just the table |
+| Back to main menu (above) | Home position of camera, completely zoomed out | View of the entire front setup | View of pulpit | Zoomed in view of just the table |

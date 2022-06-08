@@ -77,7 +77,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Technology Documentation:
-    - Introduction: TechDocs/index.md
+    - Home: TechDocs/index.md
     - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
     - Instructional Pages:
       - Switching To COW Internet: TechDocs/internet.md

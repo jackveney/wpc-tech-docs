@@ -87,6 +87,7 @@ nav:
     - Changing Audio Output Device: TechDocs/audio-output.md
     - Starting Recording and Livestreaming: TechDocs/starting-recording-livestream.md
     - During the Service: TechDocs/during-service.md
+    - Stopping Recording and Livestreaming: TechDocs/stopping-recording-livestream.md
     - Switching To Church Internet: TechDocs/internet-2.md
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'

@@ -11,9 +11,11 @@ This document is a work in progress. Please ignore if there is any gramartical m
 
 For any questions or comments, please [email me](mailto:jackveney03@gmail.com).
 
-# Licenses
+---
 
-## Westminster Presbyterian Church Technology Documentation Project
+## Licenses
+
+### Westminster Presbyterian Church Technology Documentation Project
 
 
 MIT License
@@ -40,7 +42,7 @@ SOFTWARE.
 
 ---
 
-## Westminster Presbyterian Church Technology Documentation Theme
+### Westminster Presbyterian Church Technology Documentation Theme
 
 Themes used under license from Martin Donath.
 
@@ -48,7 +50,7 @@ Material for MKDocs Theme - [View License](https://github.com/squidfunk/mkdocs-m
 
 ---
 
-## MkDocs
+### MkDocs
 
 MkDocs builder used under license from the MkDocs projects.
 

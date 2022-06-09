@@ -66,6 +66,8 @@ plugins:
   - mkpdfs:
       company: Westminster Presbyterian Church
       author: Jack Veney
+      toc_title: Table of contents
+      output_path: pdf/documentation.pdf
 #  - pdf-export:
 #      verbose: true
 #      media_type: print

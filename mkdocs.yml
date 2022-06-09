@@ -65,11 +65,11 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true 
-#  - mkpdfs:
-#      company: Westminster Presbyterian Church
-#      author: Jack Veney
-#      toc_title: Table of contents
-#      output_path: pdf/documentation.pdf
+  - mkpdfs:
+      company: Westminster Presbyterian Church
+      author: Jack Veney
+      toc_title: Table of contents
+      output_path: pdf/documentation.pdf
 #  - pdf-export:
 #      verbose: true
 #      media_type: print

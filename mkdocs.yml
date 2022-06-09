@@ -72,7 +72,7 @@ plugins:
       cover: true
       back_cover: true
       #cover_title: TITLE TEXT
-      cover_subtitle:
+      cover_subtitle: 2022 Updates
       #custom_template_path: TEMPLATES PATH
       #
       toc_title: Table of Contents

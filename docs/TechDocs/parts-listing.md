@@ -1,3 +1,6 @@
+---
+pdf: False
+---
 # Listing of Technology Hardware Parts
 
 ## Computer

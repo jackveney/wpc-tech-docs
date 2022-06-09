@@ -1,21 +1,3 @@
-/*@page {
-    size: letter portrait;
-    margin: 25mm 10mm 25mm 10mm;
-    counter-increment: page;
-    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
-    white-space: pre;
-    color: grey;
-    @top-left {
-        content: '© 2022 Jack Veney';
-    }
-    @top-center {
-        content: string(chapter);
-    }
-    @top-right {
-        content: 'Page ' counter(page);
-    }
-}*/
-
 @import "https://use.fontawesome.com/releases/v5.8.1/css/all.css";
 
 a.pdf-download-btn{

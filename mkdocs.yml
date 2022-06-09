@@ -3,6 +3,8 @@ site_name: WPC Technology Documentation
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
 edit_uri: ""
+extra_css:
+  - 'css/extra.css'
 
 site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
 site_author: Jack Veney
@@ -73,9 +75,6 @@ plugins:
 #      media_type: print
 #      enabled_if_env: ENABLE_PDF_EXPORT
 #      combined: true
-
-extra_css:
-    - css/extra.css
 
 # Page tree
 nav:

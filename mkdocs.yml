@@ -72,10 +72,10 @@ plugins:
       cover: true
       back_cover: true
       #cover_title: TITLE TEXT
-      #cover_subtitle: SUBTITLE TEXT
+      cover_subtitle:
       #custom_template_path: TEMPLATES PATH
       #
-      #toc_title: TOC TITLE TEXT
+      toc_title: Table of Contents
       #heading_shift: false
       #toc_level: 3
       #ordered_chapter_level: 2
@@ -83,8 +83,8 @@ plugins:
       #    - 'release-notes/:upgrading'
       #    - 'release-notes/:changelog'
       #
-      #exclude_pages:
-      #    - 'bugs/'
+      exclude_pages:
+          - 'TechDocs/parts-listing'
       #    - 'appendix/contribute/'
       #convert_iframe:
       #    - src: IFRAME SRC

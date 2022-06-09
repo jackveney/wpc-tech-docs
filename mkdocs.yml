@@ -63,10 +63,13 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true 
-  - pdf-export:
-      verbose: true
-      media_type: print
-      enabled_if_env: ENABLE_PDF_EXPORT
+  - mkpdfs
+    company: Westminster Presbyterian Church
+    author: Jack Veney
+#  - pdf-export:
+#      verbose: true
+#      media_type: print
+#      enabled_if_env: ENABLE_PDF_EXPORT
 #      combined: true
 
 extra_css:

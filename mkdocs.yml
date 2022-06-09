@@ -120,19 +120,17 @@ nav:
   - Technology Documentation:
     - Home: TechDocs/index.md
     - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
-    - Instructional Pages:
-      - Switching To COW Internet: TechDocs/internet.md
-      - Setting Up and Powering On Computer / Cameras / Sound System / Projector: TechDocs/setting-up-powering-on.md
-      - Connecting iPad to Sound System: TechDocs/ipad-sound-system.md
-      - Fixing Proclaim for OBS Studio: TechDocs/fixing-proclaim.md
-      - Starting Recording and Livestreaming: TechDocs/starting-recording-livestream.md
-      - During the Service: TechDocs/during-service.md
-      - Stopping Recording and Livestreaming: TechDocs/stopping-recording-livestream.md
-      - Shutting Down and Packing Up Computer / Cameras / Sound System / Projector: TechDocs/shutting-down-packing-up.md
-      - Switching To Church Internet: TechDocs/internet-2.md
-    - Other Instructions:
-      - Stream Deck Icons: TechDocs/stream-deck.md
-      - Changing Audio Output Device: TechDocs/audio-output.md
+    - Switching To COW Internet: TechDocs/internet.md
+    - Setting Up and Powering On Computer / Cameras / Sound System / Projector: TechDocs/setting-up-powering-on.md
+    - Connecting iPad to Sound System: TechDocs/ipad-sound-system.md
+    - Fixing Proclaim for OBS Studio: TechDocs/fixing-proclaim.md
+    - Starting Recording and Livestreaming: TechDocs/starting-recording-livestream.md
+    - During the Service: TechDocs/during-service.md
+    - Stopping Recording and Livestreaming: TechDocs/stopping-recording-livestream.md
+    - Shutting Down and Packing Up Computer / Cameras / Sound System / Projector: TechDocs/shutting-down-packing-up.md
+    - Switching To Church Internet: TechDocs/internet-2.md
+    - Stream Deck Icons: TechDocs/stream-deck.md
+    - Changing Audio Output Device: TechDocs/audio-output.md
   - PDF: pdf/document.pdf
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'

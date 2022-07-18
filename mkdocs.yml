@@ -133,7 +133,7 @@ nav:
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
     - PTZ Camera:
-      - Camera Presets: TechDocs/camera-presets.md
+      - Camera Presets: TechDocs/PTZ_Camera/camera-presets.md
 #  - PDF: pdf/document.pdf
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'

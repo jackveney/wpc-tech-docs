@@ -65,44 +65,44 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true
-  - with-pdf:
-      #author: WHO
-      #copyright: ANY TEXT
-      #
-      cover: true
-      back_cover: true
-      #cover_title: TITLE TEXT
-      cover_subtitle: 2022 Updates
-      #custom_template_path: TEMPLATES PATH
-      #
-      toc_title: Table of Contents
-      #heading_shift: false
-      #toc_level: 3
-      #ordered_chapter_level: 2
-      #excludes_children:
-      #    - 'release-notes/:upgrading'
-      #    - 'release-notes/:changelog'
-      #
-      exclude_pages:
-          - 'TechDocs/parts-listing'
-          - 'about/'
-      #    - 'appendix/contribute/'
-      #convert_iframe:
-      #    - src: IFRAME SRC
-      #      img: POSTER IMAGE URL
-      #      text: ALTERNATE TEXT
-      #    - src: ...
-      #two_columns_level: 3
-      #
-      #render_js: true
-      #headless_chrome_path: headless-chromium
-      #
-      #output_path: any-place/document.pdf
-      #enabled_if_env: ENABLE_PDF_EXPORT
-      #
-      #debug_html: true
-      #show_anchors: true
-      #verbose: true
+  # - with-pdf:
+  #     #author: WHO
+  #     #copyright: ANY TEXT
+  #     #
+  #     cover: true
+  #     back_cover: true
+  #     #cover_title: TITLE TEXT
+  #     cover_subtitle: 2022 Updates
+  #     #custom_template_path: TEMPLATES PATH
+  #     #
+  #     toc_title: Table of Contents
+  #     #heading_shift: false
+  #     #toc_level: 3
+  #     #ordered_chapter_level: 2
+  #     #excludes_children:
+  #     #    - 'release-notes/:upgrading'
+  #     #    - 'release-notes/:changelog'
+  #     #
+  #     exclude_pages:
+  #         - 'TechDocs/parts-listing'
+  #         - 'about/'
+  #     #    - 'appendix/contribute/'
+  #     #convert_iframe:
+  #     #    - src: IFRAME SRC
+  #     #      img: POSTER IMAGE URL
+  #     #      text: ALTERNATE TEXT
+  #     #    - src: ...
+  #     #two_columns_level: 3
+  #     #
+  #     #render_js: true
+  #     #headless_chrome_path: headless-chromium
+  #     #
+  #     #output_path: any-place/document.pdf
+  #     #enabled_if_env: ENABLE_PDF_EXPORT
+  #     #
+  #     #debug_html: true
+  #     #show_anchors: true
+  #     #verbose: true
 #  - mkpdfs:
 #      company: Westminster Presbyterian Church
 #      author: Jack Veney
@@ -134,22 +134,4 @@ nav:
     - Changing Audio Output Device: TechDocs/audio-output.md
     - PTZ Camera:
       - Camera Presets: TechDocs/PTZ_Camera/camera-presets.md
-  - PDF: pdf/document.pdf
-#  - Administration: 
-#    - 'Home': 'Administration/index.md'
-#    - 'User Guide': 
-#      - 'Getting Started': 'Administration/getting-started.md'
-#      - 'OPAC': 'Administration/opacs.md'
-#      - 'Library': 'Administration/libraries.md'
-#      - 'Cataloging (Books)': 'Administration/cataloging.md'
-#      - 'Members (Patrons)': 'Administration/members.md'
-#      - 'Circulations (Loans)': 'Administration/circulations.md'
-#      - 'Fees & Payments': 'Administration/fees-payments.md'
-#      - 'Barcode Labels': 'Administration/barcode-labels.md'
-#      - 'Reports': 'Administration/reports.md'
-#      - 'Member Area': 'Administration/member-area.md'
-#      - 'Users': 'Administration/users.md'
-#      - 'Bulk Actions': 'Administration/bulk-actions.md'
-#    - 'Contributing': 'Administration/contribute.md'
-#    - 'About': 'Administration/about.md'
-#    - 'License': 'Administration/license.md'
+  # - PDF: pdf/document.pdf

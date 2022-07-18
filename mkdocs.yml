@@ -134,7 +134,7 @@ nav:
     - Changing Audio Output Device: TechDocs/audio-output.md
     - PTZ Camera:
       - Camera Presets: TechDocs/camera-presets.md
-  - PDF: pdf/document.pdf
+#  - PDF: pdf/document.pdf
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'
 #    - 'User Guide': 

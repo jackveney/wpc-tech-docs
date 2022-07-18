@@ -65,54 +65,54 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true
-  - with-pdf:
-      #author: WHO
-      #copyright: ANY TEXT
-      #
-      cover: true
-      back_cover: true
-      #cover_title: TITLE TEXT
-      cover_subtitle: 2022 Updates
-      #custom_template_path: TEMPLATES PATH
-      #
-      toc_title: Table of Contents
-      #heading_shift: false
-      #toc_level: 3
-      #ordered_chapter_level: 2
-      #excludes_children:
-      #    - 'release-notes/:upgrading'
-      #    - 'release-notes/:changelog'
-      #
-      exclude_pages:
-          - 'TechDocs/parts-listing'
-          - 'about/'
-      #    - 'appendix/contribute/'
-      #convert_iframe:
-      #    - src: IFRAME SRC
-      #      img: POSTER IMAGE URL
-      #      text: ALTERNATE TEXT
-      #    - src: ...
-      #two_columns_level: 3
-      #
-      #render_js: true
-      #headless_chrome_path: headless-chromium
-      #
-      #output_path: any-place/document.pdf
-      #enabled_if_env: ENABLE_PDF_EXPORT
-      #
-      #debug_html: true
-      #show_anchors: true
-      #verbose: true
-#  - mkpdfs:
-#      company: Westminster Presbyterian Church
-#      author: Jack Veney
-#      toc_title: Table of contents
-#      output_path: pdf/documentation.pdf
-#  - pdf-export:
-#      verbose: true
-#      media_type: print
-#      enabled_if_env: ENABLE_PDF_EXPORT
-#      combined: true
+#   - with-pdf:
+#       #author: WHO
+#       #copyright: ANY TEXT
+#       #
+#       cover: true
+#       back_cover: true
+#       #cover_title: TITLE TEXT
+#       cover_subtitle: 2022 Updates
+#       #custom_template_path: TEMPLATES PATH
+#       #
+#       toc_title: Table of Contents
+#       #heading_shift: false
+#       #toc_level: 3
+#       #ordered_chapter_level: 2
+#       #excludes_children:
+#       #    - 'release-notes/:upgrading'
+#       #    - 'release-notes/:changelog'
+#       #
+#       exclude_pages:
+#           - 'TechDocs/parts-listing'
+#           - 'about/'
+#       #    - 'appendix/contribute/'
+#       #convert_iframe:
+#       #    - src: IFRAME SRC
+#       #      img: POSTER IMAGE URL
+#       #      text: ALTERNATE TEXT
+#       #    - src: ...
+#       #two_columns_level: 3
+#       #
+#       #render_js: true
+#       #headless_chrome_path: headless-chromium
+#       #
+#       #output_path: any-place/document.pdf
+#       #enabled_if_env: ENABLE_PDF_EXPORT
+#       #
+#       #debug_html: true
+#       #show_anchors: true
+#       #verbose: true
+# #  - mkpdfs:
+# #      company: Westminster Presbyterian Church
+# #      author: Jack Veney
+# #      toc_title: Table of contents
+# #      output_path: pdf/documentation.pdf
+# #  - pdf-export:
+# #      verbose: true
+# #      media_type: print
+# #      enabled_if_env: ENABLE_PDF_EXPORT
+# #      combined: true
 
 # Page tree
 nav:
@@ -132,6 +132,8 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
+    - PTZ Camera:
+      - Camera Presets: TechDocs/camera-presets.md
   - PDF: pdf/document.pdf
 #  - Administration: 
 #    - 'Home': 'Administration/index.md'

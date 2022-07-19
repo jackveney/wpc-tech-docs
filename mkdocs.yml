@@ -118,7 +118,7 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - Technology Documentation:
+  - General Instructions:
     - Home: TechDocs/index.md
     - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
     - Switching To COW Internet: TechDocs/internet.md
@@ -132,6 +132,6 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
-    - PTZ Camera:
-      - Camera Presets: TechDocs/PTZ_Camera/camera-presets.md
+  - PTZ Camera:
+    - Camera Presets: TechDocs/PTZ_Camera/camera-presets.md
   # - PDF: pdf/document.pdf

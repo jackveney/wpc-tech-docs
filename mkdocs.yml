@@ -84,7 +84,7 @@ plugins:
       #    - 'release-notes/:changelog'
       #
       exclude_pages:
-          # - 'TechDocs/parts-listing'
+          - 'TechDocs/parts-listing'
           - 'about/'
       #    - 'appendix/contribute/'
       #convert_iframe:
@@ -133,5 +133,5 @@ nav:
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
   - PTZ Camera:
-    - Camera Presets: TechDocs/PTZ_Camera/camera-presets.md
-  # - PDF: pdf/document.pdf
+    - Camera Presets: PTZ_Camera/camera-presets.md
+  - PDF: pdf/document.pdf

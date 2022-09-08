@@ -6,7 +6,7 @@ edit_uri: ""
 extra_css:
   - 'css/extra.css'
 
-site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services. Test words again.
+site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services. Test words again, again.
 site_author: Jack Veney
 theme:
   name: material

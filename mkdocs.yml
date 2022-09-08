@@ -86,7 +86,7 @@ plugins:
       exclude_pages:
           - 'TechDocs/parts-listing'
           - 'about/'
-          - 'PTZ_Camera/'
+      #    - 'PTZ_Camera/'
       #    - 'appendix/contribute/'
       #convert_iframe:
       #    - src: IFRAME SRC

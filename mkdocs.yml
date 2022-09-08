@@ -73,6 +73,7 @@ plugins:
       back_cover: true
       #cover_title: TITLE TEXT
       cover_subtitle: 2022 Updates
+      cover_logo: assets/images/banner.png
       #custom_template_path: TEMPLATES PATH
       #
       toc_title: Table of Contents
@@ -93,7 +94,7 @@ plugins:
       #      img: POSTER IMAGE URL
       #      text: ALTERNATE TEXT
       #    - src: ...
-      #two_columns_level: 3
+      two_columns_level: 3
       #
       #render_js: true
       #headless_chrome_path: headless-chromium

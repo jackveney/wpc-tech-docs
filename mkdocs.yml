@@ -6,7 +6,7 @@ edit_uri: ""
 extra_css:
   - 'css/extra.css'
 
-site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services. Test words again, again.
+site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
 site_author: Jack Veney
 theme:
   name: material
@@ -86,6 +86,7 @@ plugins:
       exclude_pages:
           - 'TechDocs/parts-listing'
           - 'about/'
+          - 'PTZ_Camera/'
       #    - 'appendix/contribute/'
       #convert_iframe:
       #    - src: IFRAME SRC
@@ -132,6 +133,6 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
-  - PTZ Camera:
-    - Camera Presets: PTZ_Camera/camera-presets.md
+#  - PTZ Camera:
+#    - Camera Presets: PTZ_Camera/camera-presets.md
   - PDF: pdf/document.pdf

@@ -1,4 +1,4 @@
-site_name: WPC Technology Documentation Testing
+site_name: WPC Technology Documentation
 
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
@@ -6,7 +6,7 @@ edit_uri: ""
 extra_css:
   - 'css/extra.css'
 
-site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
+site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services. Test words.
 site_author: Jack Veney
 theme:
   name: material

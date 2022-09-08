@@ -133,6 +133,6 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
-#  - PTZ Camera:
-#    - Camera Presets: PTZ_Camera/camera-presets.md
+  - PTZ Camera:
+    - Camera Presets: PTZ_Camera/camera-presets.md
   - PDF: pdf/document.pdf

@@ -68,7 +68,7 @@ plugins:
   - search:
       lang: en
   - social:
-      cards: !ENV [CARDS, false]
+      #cards: !ENV [CARDS, false]
   - redirects:
       redirect_maps:
         tech-docs.md: docs/index.md

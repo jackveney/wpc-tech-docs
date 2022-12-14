@@ -133,82 +133,82 @@ nav:
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
   - Cameras: 
-    - PTZ Camera: TechDocs/cameras/PTZ/index.md
+    - PTZ Camera: 
       - Logging into Camera: TechDocs/cameras/PTZ/logging_in.md
       - Listing of Current Presets: TechDocs/cameras/PTZ/presets_list.md
       - Setting Camera Presets: TechDocs/cameras/PTZ/presets_add.md
       - Adding Camera Presets to Streamdeck: TechDocs/cameras/PTZ/presets_streamdeck.md
-      - Camera Settings: TechDocs/cameras/PTZ/settings/index.md
+      - Camera Settings: 
         - (list settings that are noteworthy here): TechDocs/cameras/PTZ/settings/list.md
-    - Mevo Cameras: TechDocs/cameras/mevo/index.md
+    - Mevo Cameras: 
       - Connecting to Cameras: TechDocs/cameras/mevo/connecting.md
-      - Camera Settings: TechDocs/cameras/mevo/settings/index.md
+      - Camera Settings: 
         - (list settings that are noteworthy here): TechDocs/cameras/mevo/settings/list.md
   - Computer: 
-    - OBS Studio: TechDocs/computer/index.md
-      - Streaming Instance: TechDocs/computer/index.md
+    - OBS Studio: 
+      - Streaming Instance: 
         - Recording Settings: TechDocs/computer/index.md
         - Streaming Settings: TechDocs/computer/index.md
         - Outgoing Stream to "Security View" Instance: TechDocs/computer/index.md
         - Adding Scenes: TechDocs/computer/index.md
-        - Adding Sources: TechDocs/computer/index.md
+        - Adding Sources: 
           - Mevo Cameras: TechDocs/computer/index.md
           - PTZ Camera: TechDocs/computer/index.md
           - Proclaim: TechDocs/computer/index.md
           - Powerpoint: TechDocs/computer/index.md
           - Sound System: TechDocs/computer/index.md
-      - "Security View" Instance: TechDocs/computer/index.md
+      - "Security View" Instance: 
         - Recording Settings: TechDocs/computer/index.md
-        - Sources: TechDocs/computer/index.md
+        - Sources: 
           - Mevo Cameras: TechDocs/computer/index.md
           - PTZ Camera: TechDocs/computer/index.md
           - Proclaim: TechDocs/computer/index.md
           - Powerpoint: TechDocs/computer/index.md
           - Sound System: TechDocs/computer/index.md
           - Outgoing Streams: TechDocs/computer/index.md
-    - Proclaim: TechDocs/computer/index.md
+    - Proclaim: 
       - Opening Slides for Current Week: TechDocs/computer/index.md
       - Starting Slides: TechDocs/computer/index.md
       - Screen Settings: TechDocs/computer/index.md
       - NDI Settings: TechDocs/computer/index.md
-    - Streamdeck: TechDocs/computer/index.md
+    - Streamdeck: 
       - OBS Scenes: TechDocs/computer/index.md
       - OBS Recording & Streaming Controls: TechDocs/computer/index.md
       - PTZ Camera Presets: TechDocs/computer/index.md
-    - Youtube: TechDocs/computer/index.md
+    - Youtube: 
       - Scheduling Livestream: TechDocs/computer/index.md
       - Starting Livestream: TechDocs/computer/index.md
       - Stopping Livestream: TechDocs/computer/index.md
-    - Facebook Live: TechDocs/computer/index.md
+    - Facebook Live: 
       - Scheduling Livestream: TechDocs/computer/index.md
       - Starting Livestream: TechDocs/computer/index.md
       - Stopping Livestream: TechDocs/computer/index.md
-    - Performing Maintanince: TechDocs/computer/index.md
+    - Performing Maintanince:
       - CCleaner: TechDocs/computer/index.md
       - Dell Support Assist: TechDocs/computer/index.md
       - Windows Update: TechDocs/computer/index.md
       - Graphics Card Update: TechDocs/computer/index.md
       - Proclaim Updates: TechDocs/computer/index.md
-      - OBS Updates: TechDocs/computer/index.md
+      - OBS Updates:
         - Streaming Instance: TechDocs/computer/index.md
         - "Security View" Instance: TechDocs/computer/index.md
         - Plugins: TechDocs/computer/index.md
   - Advanced Information: 
-    - Technology Listing: TechDocs/computer/index.md
+    - Technology Listing: 
       - Hardware Listing: TechDocs/computer/index.md
       - Software Listing: TechDocs/computer/index.md
       - Technology Not In Use: TechDocs/computer/index.md
-    - Cabling Diagrams: TechDocs/computer/index.md
+    - Cabling Diagrams: 
       - AV System: TechDocs/computer/index.md
       - Networking: TechDocs/computer/index.md
-    - Password Repository: TechDocs/computer/index.md
+    - Password Repository: 
       - Accessing: TechDocs/computer/index.md
       - Adding Passwords: TechDocs/computer/index.md
       - Editing Passwords: TechDocs/computer/index.md
       - Removing Passwords: TechDocs/computer/index.md
-    - Router: TechDocs/computer/index.md
-      - Settings: TechDocs/computer/index.md
+    - Router: 
+      - Settings: 
         - (list settings that are noteworthy here): TechDocs/computer/index.md
-    - Backup Files Repository: TechDocs/computer/index.md
+    - Backup Files Repository: 
       - (figure out what to go here): TechDocs/computer/index.md
   - PDF: pdf/document.pdf

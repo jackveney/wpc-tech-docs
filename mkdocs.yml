@@ -68,7 +68,7 @@ plugins:
       lang: en
   - redirects:
       redirect_maps:
-        tech-docs.md: TechDocs/index.md
+        tech-docs.md: docs/index.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
@@ -93,7 +93,7 @@ plugins:
       #    - 'release-notes/:changelog'
       #
       exclude_pages:
-      #    - 'TechDocs/parts-listing'
+      #    - 'docs/parts-listing'
       #    - 'about/'
       #    - 'PTZ_Camera/'
       #    - 'appendix/contribute/'
@@ -118,97 +118,96 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - General Instructions:
-    - Home: TechDocs/index.md
-    - Listing of Technology Hardware Parts: TechDocs/parts-listing.md
-    - Switching To COW Internet: TechDocs/internet.md
-    - Setting Up and Powering On Computer / Cameras / Sound System / Projector: TechDocs/setting-up-powering-on.md
-    - Connecting iPad to Sound System: TechDocs/ipad-sound-system.md
-    - Fixing Proclaim for OBS Studio: TechDocs/fixing-proclaim.md
-    - Starting Recording and Livestreaming: TechDocs/starting-recording-livestream.md
-    - During the Service: TechDocs/during-service.md
-    - Stopping Recording and Livestreaming: TechDocs/stopping-recording-livestream.md
-    - Shutting Down and Packing Up Computer / Cameras / Sound System / Projector: TechDocs/shutting-down-packing-up.md
-    - Switching To Church Internet: TechDocs/internet-2.md
-    - Stream Deck Icons: TechDocs/stream-deck.md
-    - Changing Audio Output Device: TechDocs/audio-output.md
-  - Cameras: 
-    - PTZ Camera: 
-      - Logging into Camera: TechDocs/cameras/PTZ/logging_in.md
-      - Listing of Current Presets: TechDocs/cameras/PTZ/presets_list.md
-      - Setting Camera Presets: TechDocs/cameras/PTZ/presets_add.md
-      - Adding Camera Presets to Streamdeck: TechDocs/cameras/PTZ/presets_streamdeck.md
-      - Camera Settings: 
-        - (list settings that are noteworthy here): TechDocs/cameras/PTZ/settings/list.md
-    - Mevo Cameras: 
-      - Connecting to Cameras: TechDocs/cameras/mevo/connecting.md
-      - Camera Settings: 
-        - (list settings that are noteworthy here): TechDocs/cameras/mevo/settings/list.md
-  - Computer: 
-    - OBS Studio: 
-      - Streaming Instance: 
-        - Recording Settings: TechDocs/computer/index.md
-        - Streaming Settings: TechDocs/computer/index.md
-        - Outgoing Stream to "Security View" Instance: TechDocs/computer/index.md
-        - Adding Scenes: TechDocs/computer/index.md
-        - Adding Sources: 
-          - Mevo Cameras: TechDocs/computer/index.md
-          - PTZ Camera: TechDocs/computer/index.md
-          - Proclaim: TechDocs/computer/index.md
-          - Powerpoint: TechDocs/computer/index.md
-          - Sound System: TechDocs/computer/index.md
-      - Security View Instance: 
-        - Recording Settings: TechDocs/computer/index.md
-        - Sources: 
-          - Mevo Cameras: TechDocs/computer/index.md
-          - PTZ Camera: TechDocs/computer/index.md
-          - Proclaim: TechDocs/computer/index.md
-          - Powerpoint: TechDocs/computer/index.md
-          - Sound System: TechDocs/computer/index.md
-          - Outgoing Streams: TechDocs/computer/index.md
-    - Proclaim: 
-      - Opening Slides for Current Week: TechDocs/computer/index.md
-      - Starting Slides: TechDocs/computer/index.md
-      - Screen Settings: TechDocs/computer/index.md
-      - NDI Settings: TechDocs/computer/index.md
-    - Streamdeck: 
-      - OBS Scenes: TechDocs/computer/index.md
-      - OBS Recording & Streaming Controls: TechDocs/computer/index.md
-      - PTZ Camera Presets: TechDocs/computer/index.md
-    - Youtube: 
-      - Scheduling Livestream: TechDocs/computer/index.md
-      - Starting Livestream: TechDocs/computer/index.md
-      - Stopping Livestream: TechDocs/computer/index.md
-    - Facebook Live: 
-      - Scheduling Livestream: TechDocs/computer/index.md
-      - Starting Livestream: TechDocs/computer/index.md
-      - Stopping Livestream: TechDocs/computer/index.md
-    - Performing Maintanince:
-      - CCleaner: TechDocs/computer/index.md
-      - Dell Support Assist: TechDocs/computer/index.md
-      - Windows Update: TechDocs/computer/index.md
-      - Graphics Card Update: TechDocs/computer/index.md
-      - Proclaim Updates: TechDocs/computer/index.md
-      - OBS Updates:
-        - Streaming Instance: TechDocs/computer/index.md
-        - Security View Instance: TechDocs/computer/index.md
-        - Plugins: TechDocs/computer/index.md
-  - Advanced Information: 
-    - Technology Listing: 
-      - Hardware Listing: TechDocs/computer/index.md
-      - Software Listing: TechDocs/computer/index.md
-      - Technology Not In Use: TechDocs/computer/index.md
-    - Cabling Diagrams: 
-      - AV System: TechDocs/computer/index.md
-      - Networking: TechDocs/computer/index.md
-    - Password Repository: 
-      - Accessing: TechDocs/computer/index.md
-      - Adding Passwords: TechDocs/computer/index.md
-      - Editing Passwords: TechDocs/computer/index.md
-      - Removing Passwords: TechDocs/computer/index.md
-    - Router: 
-      - Settings: 
-        - (list settings that are noteworthy here): TechDocs/computer/index.md
-    - Backup Files Repository: 
-      - (figure out what to go here): TechDocs/computer/index.md
+  - General Instructions: docs/general/index.md
+    - Listing of Technology Hardware Parts: docs/general/parts-listing.md
+    - Switching To COW Internet: docs/general/internet.md
+    - Setting Up and Powering On Computer / Cameras / Sound System / Projector: docs/general/setting-up-powering-on.md
+    - Connecting iPad to Sound System: docs/general/ipad-sound-system.md
+    - Fixing Proclaim for OBS Studio: docs/general/fixing-proclaim.md
+    - Starting Recording and Livestreaming: docs/general/starting-recording-livestream.md
+    - During the Service: docs/general/during-service.md
+    - Stopping Recording and Livestreaming: docs/general/stopping-recording-livestream.md
+    - Shutting Down and Packing Up Computer / Cameras / Sound System / Projector: docs/general/shutting-down-packing-up.md
+    - Switching To Church Internet: docs/general/internet-2.md
+    - Stream Deck Icons: docs/general/stream-deck.md
+    - Changing Audio Output Device: docs/general/audio-output.md
+  # - Cameras: 
+  #   - PTZ Camera: 
+  #     - Logging into Camera: docs/cameras/PTZ/logging_in.md
+  #     - Listing of Current Presets: docs/cameras/PTZ/presets_list.md
+  #     - Setting Camera Presets: docs/cameras/PTZ/presets_add.md
+  #     - Adding Camera Presets to Streamdeck: docs/cameras/PTZ/presets_streamdeck.md
+  #     - Camera Settings: 
+  #       - (list settings that are noteworthy here): docs/cameras/PTZ/settings/list.md
+  #   - Mevo Cameras: 
+  #     - Connecting to Cameras: docs/cameras/mevo/connecting.md
+  #     - Camera Settings: 
+  #       - (list settings that are noteworthy here): docs/cameras/mevo/settings/list.md
+  # - Computer: 
+  #   - OBS Studio: 
+  #     - Streaming Instance: 
+  #       - Recording Settings: docs/computer/index.md
+  #       - Streaming Settings: docs/computer/index.md
+  #       - Outgoing Stream to "Security View" Instance: docs/computer/index.md
+  #       - Adding Scenes: docs/computer/index.md
+  #       - Adding Sources: 
+  #         - Mevo Cameras: docs/computer/index.md
+  #         - PTZ Camera: docs/computer/index.md
+  #         - Proclaim: docs/computer/index.md
+  #         - Powerpoint: docs/computer/index.md
+  #         - Sound System: docs/computer/index.md
+  #     - Security View Instance: 
+  #       - Recording Settings: docs/computer/index.md
+  #       - Sources: 
+  #         - Mevo Cameras: docs/computer/index.md
+  #         - PTZ Camera: docs/computer/index.md
+  #         - Proclaim: docs/computer/index.md
+  #         - Powerpoint: docs/computer/index.md
+  #         - Sound System: docs/computer/index.md
+  #         - Outgoing Streams: docs/computer/index.md
+  #   - Proclaim: 
+  #     - Opening Slides for Current Week: docs/computer/index.md
+  #     - Starting Slides: docs/computer/index.md
+  #     - Screen Settings: docs/computer/index.md
+  #     - NDI Settings: docs/computer/index.md
+  #   - Streamdeck: 
+  #     - OBS Scenes: docs/computer/index.md
+  #     - OBS Recording & Streaming Controls: docs/computer/index.md
+  #     - PTZ Camera Presets: docs/computer/index.md
+  #   - Youtube: 
+  #     - Scheduling Livestream: docs/computer/index.md
+  #     - Starting Livestream: docs/computer/index.md
+  #     - Stopping Livestream: docs/computer/index.md
+  #   - Facebook Live: 
+  #     - Scheduling Livestream: docs/computer/index.md
+  #     - Starting Livestream: docs/computer/index.md
+  #     - Stopping Livestream: docs/computer/index.md
+  #   - Performing Maintanince:
+  #     - CCleaner: docs/computer/index.md
+  #     - Dell Support Assist: docs/computer/index.md
+  #     - Windows Update: docs/computer/index.md
+  #     - Graphics Card Update: docs/computer/index.md
+  #     - Proclaim Updates: docs/computer/index.md
+  #     - OBS Updates:
+  #       - Streaming Instance: docs/computer/index.md
+  #       - Security View Instance: docs/computer/index.md
+  #       - Plugins: docs/computer/index.md
+  # - Advanced Information: 
+  #   - Technology Listing: 
+  #     - Hardware Listing: docs/computer/index.md
+  #     - Software Listing: docs/computer/index.md
+  #     - Technology Not In Use: docs/computer/index.md
+  #   - Cabling Diagrams: 
+  #     - AV System: docs/computer/index.md
+  #     - Networking: docs/computer/index.md
+  #   - Password Repository: 
+  #     - Accessing: docs/computer/index.md
+  #     - Adding Passwords: docs/computer/index.md
+  #     - Editing Passwords: docs/computer/index.md
+  #     - Removing Passwords: docs/computer/index.md
+  #   - Router: 
+  #     - Settings: 
+  #       - (list settings that are noteworthy here): docs/computer/index.md
+  #   - Backup Files Repository: 
+  #     - (figure out what to go here): docs/computer/index.md
   - PDF: pdf/document.pdf

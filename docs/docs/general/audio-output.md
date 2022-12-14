@@ -6,7 +6,7 @@ It can be necessary to change the audio output between the center monitor and th
 
 ## 1. Select Speaker Icon
  - Click the speaker icon in the bottom right of the center screen to open the volume settings.
- ![Speaker Icon](../assets/images/audio-output/speaker.png)
+ ![Speaker Icon](../../assets/images/audio-output/speaker.png)
 
 ## 2. Select Playback Device Dropdown
  - Just above the volume slider, select the menu to bring up all the audio output devices.
@@ -14,7 +14,7 @@ It can be necessary to change the audio output between the center monitor and th
     - Intel(R) Display Audio HDMI 2 (Intel(R) Display Audio)
     - DELL S2721H (NVIDIA High Definition Audio)
  - After opening the dropdown, it will show all audio output devices.
- ![Output Devices](../assets/images/audio-output/audio-devices.png)
+ ![Output Devices](../../assets/images/audio-output/audio-devices.png)
 
 ## 3. Select Output Location
  - According to the list below, select where you want the audio to be output to:

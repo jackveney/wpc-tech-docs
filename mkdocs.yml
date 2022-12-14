@@ -3,6 +3,7 @@ site_name: WPC Technology Documentation
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
 edit_uri: ""
+site_url: wpc.veney.org
 extra_css:
   - 'css/extra.css'
 
@@ -16,7 +17,7 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     # - navigation.instant
     # - navigation.prune
@@ -66,6 +67,8 @@ copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wo
 plugins:
   - search:
       lang: en
+  - social:
+      cards: !ENV [CARDS, false]
   - redirects:
       redirect_maps:
         tech-docs.md: docs/index.md
@@ -136,7 +139,7 @@ nav:
   - Cameras:
     - docs/cameras/index.md
     - PTZ Camera:
-      - docs/cameras/ptz/index.md
+      - docs/cameras/PTZ/index.md
       - Logging into Camera: docs/cameras/PTZ/logging_in.md
       - Listing of Current Presets: docs/cameras/PTZ/presets_list.md
       - Setting Camera Presets: docs/cameras/PTZ/presets_add.md
@@ -211,14 +214,14 @@ nav:
         - Starting Livestream: docs/computer/streams/facebook/starting.md
         - Stopping Livestream: docs/computer/streams/facebook/stopping.md
     - Performing Maintanince:
-      - docs/computer/maintanince
+      - docs/computer/maintanince/index.md
       - CCleaner: docs/computer/maintanince/ccleaner.md
       - Dell Support Assist: docs/computer/maintanince/dell_support_assist.md
       - Windows Update: docs/computer/maintanince/windows_update.md
       - Nvidia Graphics Card Update: docs/computer/maintanince/nvidia_update.md
       - Proclaim Updates: docs/computer/maintanince/proclaim_updates.md
       - OBS Updates:
-        - docs/computer/maintanince/OBS
+        - docs/computer/maintanince/OBS/index.md
         - Streaming Instance: docs/computer/maintanince/streaming_update.md
         - All Cameras Instance: docs/computer/maintanince/all_cams_update.md
         - Plugin Updates:
@@ -233,10 +236,10 @@ nav:
   - Advanced Information:
     - docs/advanced/index.md
     - Technology Listing:
-      - docs/advanced/tecnhology/index.md
-      - Hardware Listing: docs/advanced/tecnhology/hardware.md
-      - Software Listing: docs/advanced/tecnhology/software.md
-      - Technology Not In Use: docs/advanced/tecnhology/not_in_use.md
+      - docs/advanced/technology/index.md
+      - Hardware Listing: docs/advanced/technology/hardware.md
+      - Software Listing: docs/advanced/technology/software.md
+      - Technology Not In Use: docs/advanced/technology/not_in_use.md
     - Cabling Diagrams:
       - docs/advanced/cabling/index.md
       - AV System: docs/advanced/cabling/AV_system.md

@@ -3,7 +3,7 @@ site_name: WPC Technology Documentation
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
 edit_uri: ""
-site_url: wpc.veney.org
+site_url: https://wpc.veney.org
 extra_css:
   - 'css/extra.css'
 

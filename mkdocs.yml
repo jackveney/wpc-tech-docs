@@ -68,7 +68,7 @@ plugins:
   - search:
       lang: en
   - social:
-      #cards: !ENV [CARDS, false]
+      cards: !ENV [CARDS, false]
   - redirects:
       redirect_maps:
         tech-docs.md: docs/index.md
@@ -112,7 +112,7 @@ plugins:
       #headless_chrome_path: headless-chromium
       #
       #output_path: any-place/document.pdf
-      #enabled_if_env: ENABLE_PDF_EXPORT
+      enabled_if_env: ENABLE_PDF_EXPORT
       #
       #debug_html: true
       #show_anchors: true

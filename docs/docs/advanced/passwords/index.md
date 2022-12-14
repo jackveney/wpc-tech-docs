@@ -8,13 +8,13 @@ A repository with all of the passwords has been set up through KeePass. The arti
   Access the password repository by following the steps in this article.
 
 ## [Viewing Credentials](viewing.md)
-  View credentials in the password reposity by following the steps in this article.
+  View credentials in the password reposity by following the steps in [this article](accessing.md).
 
 ## [Adding Credentials](addng.md)
-  Add credentials in the password reposity by following the steps in this article.
+  Add credentials in the password reposity by following the steps in [this article](accessing.md).
 
 ## [Editing Credentials](editing.md)
-  Edit credentials in the password repository by following the steps in this article.
+  Edit credentials in the password repository by following the steps in [this article](accessing.md).
 
 ## [Deleting Credentials](removing.md)
-  Delete credentials in the password repository by following the steps in this article.
+  Delete credentials in the password repository by following the steps in [this article](accessing.md).

@@ -157,7 +157,7 @@ nav:
           - Proclaim: TechDocs/computer/index.md
           - Powerpoint: TechDocs/computer/index.md
           - Sound System: TechDocs/computer/index.md
-      - "Security View" Instance: 
+      - Security View Instance: 
         - Recording Settings: TechDocs/computer/index.md
         - Sources: 
           - Mevo Cameras: TechDocs/computer/index.md
@@ -191,7 +191,7 @@ nav:
       - Proclaim Updates: TechDocs/computer/index.md
       - OBS Updates:
         - Streaming Instance: TechDocs/computer/index.md
-        - "Security View" Instance: TechDocs/computer/index.md
+        - Security View Instance: TechDocs/computer/index.md
         - Plugins: TechDocs/computer/index.md
   - Advanced Information: 
     - Technology Listing: 

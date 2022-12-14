@@ -248,6 +248,7 @@ nav:
     - Password Repository:
       - docs/advanced/passwords/index.md
       - Accessing: docs/advanced/passwords/accessing.md
+      - Viewing Passwords: docs/advanced/passwords/viewing.md
       - Adding Passwords: docs/advanced/passwords/addng.md
       - Editing Passwords: docs/advanced/passwords/editing.md
       - Removing Passwords: docs/advanced/passwords/removing.md

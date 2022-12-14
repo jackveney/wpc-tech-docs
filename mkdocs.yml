@@ -69,6 +69,7 @@ plugins:
   - redirects:
       redirect_maps:
         tech-docs.md: docs/index.md
+        docs/computer/streamdeck/PTZ_camera/presets_list.md: docs/cameras/PTZ/presets_list.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
@@ -132,83 +133,136 @@ nav:
     - Switching To Church Internet: docs/general/internet-2.md
     - Stream Deck Icons: docs/general/stream-deck.md
     - Changing Audio Output Device: docs/general/audio-output.md
-  # - Cameras: 
-  #   - PTZ Camera: 
-  #     - Logging into Camera: docs/cameras/PTZ/logging_in.md
-  #     - Listing of Current Presets: docs/cameras/PTZ/presets_list.md
-  #     - Setting Camera Presets: docs/cameras/PTZ/presets_add.md
-  #     - Adding Camera Presets to Streamdeck: docs/cameras/PTZ/presets_streamdeck.md
-  #     - Camera Settings: 
-  #       - (list settings that are noteworthy here): docs/cameras/PTZ/settings/list.md
-  #   - Mevo Cameras: 
-  #     - Connecting to Cameras: docs/cameras/mevo/connecting.md
-  #     - Camera Settings: 
-  #       - (list settings that are noteworthy here): docs/cameras/mevo/settings/list.md
-  # - Computer: 
-  #   - OBS Studio: 
-  #     - Streaming Instance: 
-  #       - Recording Settings: docs/computer/index.md
-  #       - Streaming Settings: docs/computer/index.md
-  #       - Outgoing Stream to "Security View" Instance: docs/computer/index.md
-  #       - Adding Scenes: docs/computer/index.md
-  #       - Adding Sources: 
-  #         - Mevo Cameras: docs/computer/index.md
-  #         - PTZ Camera: docs/computer/index.md
-  #         - Proclaim: docs/computer/index.md
-  #         - Powerpoint: docs/computer/index.md
-  #         - Sound System: docs/computer/index.md
-  #     - Security View Instance: 
-  #       - Recording Settings: docs/computer/index.md
-  #       - Sources: 
-  #         - Mevo Cameras: docs/computer/index.md
-  #         - PTZ Camera: docs/computer/index.md
-  #         - Proclaim: docs/computer/index.md
-  #         - Powerpoint: docs/computer/index.md
-  #         - Sound System: docs/computer/index.md
-  #         - Outgoing Streams: docs/computer/index.md
-  #   - Proclaim: 
-  #     - Opening Slides for Current Week: docs/computer/index.md
-  #     - Starting Slides: docs/computer/index.md
-  #     - Screen Settings: docs/computer/index.md
-  #     - NDI Settings: docs/computer/index.md
-  #   - Streamdeck: 
-  #     - OBS Scenes: docs/computer/index.md
-  #     - OBS Recording & Streaming Controls: docs/computer/index.md
-  #     - PTZ Camera Presets: docs/computer/index.md
-  #   - Youtube: 
-  #     - Scheduling Livestream: docs/computer/index.md
-  #     - Starting Livestream: docs/computer/index.md
-  #     - Stopping Livestream: docs/computer/index.md
-  #   - Facebook Live: 
-  #     - Scheduling Livestream: docs/computer/index.md
-  #     - Starting Livestream: docs/computer/index.md
-  #     - Stopping Livestream: docs/computer/index.md
-  #   - Performing Maintanince:
-  #     - CCleaner: docs/computer/index.md
-  #     - Dell Support Assist: docs/computer/index.md
-  #     - Windows Update: docs/computer/index.md
-  #     - Graphics Card Update: docs/computer/index.md
-  #     - Proclaim Updates: docs/computer/index.md
-  #     - OBS Updates:
-  #       - Streaming Instance: docs/computer/index.md
-  #       - Security View Instance: docs/computer/index.md
-  #       - Plugins: docs/computer/index.md
-  # - Advanced Information: 
-  #   - Technology Listing: 
-  #     - Hardware Listing: docs/computer/index.md
-  #     - Software Listing: docs/computer/index.md
-  #     - Technology Not In Use: docs/computer/index.md
-  #   - Cabling Diagrams: 
-  #     - AV System: docs/computer/index.md
-  #     - Networking: docs/computer/index.md
-  #   - Password Repository: 
-  #     - Accessing: docs/computer/index.md
-  #     - Adding Passwords: docs/computer/index.md
-  #     - Editing Passwords: docs/computer/index.md
-  #     - Removing Passwords: docs/computer/index.md
-  #   - Router: 
-  #     - Settings: 
-  #       - (list settings that are noteworthy here): docs/computer/index.md
-  #   - Backup Files Repository: 
-  #     - (figure out what to go here): docs/computer/index.md
+  - Cameras:
+    - docs/cameras/index.md
+    - PTZ Camera:
+      - docs/cameras/ptz/index.md
+      - Logging into Camera: docs/cameras/PTZ/logging_in.md
+      - Listing of Current Presets: docs/cameras/PTZ/presets_list.md
+      - Setting Camera Presets: docs/cameras/PTZ/presets_add.md
+      - Camera Settings: 
+        - docs/cameras/PTZ/settings/index.md
+        - (list settings that are noteworthy here): docs/cameras/PTZ/settings/list.md
+    - Mevo Cameras:
+      - docs/cameras/mevo/index.md
+      - Connecting to Cameras: docs/cameras/mevo/connecting.md
+      - Camera Settings:
+        - docs/cameras/mevo/settings/index.md
+        - (list settings that are noteworthy here): docs/cameras/mevo/settings/list.md
+  - Computer:
+    - docs/computer/index.md
+    - OBS Studio:
+      - docs/computer/OBS/index.md
+      - Streaming Instance:
+        - docs/computer/OBS/streaming/index.md
+        - Recording Settings: docs/computer/OBS/streaming/recording.md
+        - Streaming Settings: docs/computer/OBS/streaming/streaming.md
+        - Outgoing Stream to All Cameras Instance: docs/computer/OBS/streaming/virtual_camera.md
+        - Scenes:
+          - docs/computer/OBS/streaming/scenes/index.md
+          - Default Scenes for Our Use: docs/computer/OBS/streaming/scenes/default.md
+        - Sources: 
+          - docs/computer/OBS/streaming/sources/index.md
+          - Mevo Cameras: docs/computer/OBS/streaming/sources/mevo_cameras.md
+          - PTZ Camera: docs/computer/OBS/streaming/sources/PTZ_camera.md
+          - Proclaim: docs/computer/OBS/streaming/sources/proclaim.md
+          - Powerpoint: docs/computer/OBS/streaming/sources/powerpoint.md
+          - Sound System: docs/computer/OBS/streaming/sources/sound_system.md
+      - All Cameras Instance:
+        - docs/computer/OBS/all_cams/index.md
+        - Recording Settings: docs/computer/OBS/all_cams/recording.md
+        - Sources: 
+          - docs/computer/OBS/all_cams/sources/index.md
+          - Mevo Cameras: docs/computer/OBS/all_cams/sources/mevo_cameras.md
+          - PTZ Camera: docs/computer/OBS/all_cams/sources/PTZ_camera.md
+          - Proclaim: docs/computer/OBS/all_cams/sources/proclaim.md
+          - Powerpoint: docs/computer/OBS/all_cams/sources/powerpoint.md
+          - Sound System: docs/computer/OBS/all_cams/sources/sound_system.md
+          - Outgoing Streams: docs/computer/OBS/all_cams/sources/outgoing_stream.md
+      - Plugins:
+        - docs/computer/OBS/plugins/index.md
+        - Multi Output: docs/computer/OBS/plugins/multi_output.md
+        - NDI: docs/computer/OBS/plugins/ndi_tools.md
+        - PTZ Controls: docs/computer/OBS/plugins/ptz_controls.md
+    - Proclaim:
+      - docs/computer/proclaim/index.md
+      - Opening Slides for Current Week: docs/computer/proclaim/opening_slides.md
+      - Starting Slideshow: docs/computer/proclaim/starting_slideshow.md
+      - Screen Settings: docs/computer/proclaim/screen_settings.md
+      - NDI Settings: docs/computer/proclaim/NDI_settings.md
+    - Streamdeck:
+      - docs/computer/streamdeck/index.md
+      - OBS Scenes: docs/computer/streamdeck/OBS_scenes.md
+      - OBS Recording & Streaming Controls: docs/computer/streamdeck/recording_streaming_controls.md
+      - PTZ Camera Preset Locations:
+        - docs/computer/streamdeck/PTZ_camera/index.md
+        - Adding Presets: docs/computer/streamdeck/PTZ_camera/adding_presets.md
+        - Listing of Current Presets: docs/computer/streamdeck/PTZ_camera/presets_list.md
+    - Streaming Locations:
+      - docs/computer/streams/index.md
+      - YouTube:
+        - docs/computer/streams/youtube/index.md
+        - Scheduling Livestream: docs/computer/streams/youtube/scheduling.md
+        - Starting Livestream: docs/computer/streams/youtube/starting.md
+        - Stopping Livestream: docs/computer/streams/youtube/stopping.md
+      - Facebook Live: 
+        - docs/computer/streams/facebook/index.md
+        - Scheduling Livestream: docs/computer/streams/facebook/scheduling.md
+        - Starting Livestream: docs/computer/streams/facebook/starting.md
+        - Stopping Livestream: docs/computer/streams/facebook/stopping.md
+    - Performing Maintanince:
+      - docs/computer/maintanince
+      - CCleaner: docs/computer/maintanince/ccleaner.md
+      - Dell Support Assist: docs/computer/maintanince/dell_support_assist.md
+      - Windows Update: docs/computer/maintanince/windows_update.md
+      - Nvidia Graphics Card Update: docs/computer/maintanince/nvidia_update.md
+      - Proclaim Updates: docs/computer/maintanince/proclaim_updates.md
+      - OBS Updates:
+        - docs/computer/maintanince/OBS
+        - Streaming Instance: docs/computer/maintanince/streaming_update.md
+        - All Cameras Instance: docs/computer/maintanince/all_cams_update.md
+        - Plugin Updates:
+          - docs/computer/maintanince/OBS/plugins/index.md
+          - Multi Output: docs/computer/maintanince/OBS/plugins/multi_output.md
+          - NDI: docs/computer/maintanince/OBS/plugins/ndi_tools.md
+          - PTZ Controls: docs/computer/maintanince/OBS/plugins/ptz_controls.md
+      - Elgato:
+        - docs/computer/maintanince/elgato/index.md
+        - Stream Deck: docs/computer/maintanince/elgato/streamdeck.md
+        - Capture Card: docs/computer/maintanince/elgato/capture_card.md
+  - Advanced Information:
+    - docs/advanced/index.md
+    - Technology Listing:
+      - docs/advanced/tecnhology/index.md
+      - Hardware Listing: docs/advanced/tecnhology/hardware.md
+      - Software Listing: docs/advanced/tecnhology/software.md
+      - Technology Not In Use: docs/advanced/tecnhology/not_in_use.md
+    - Cabling Diagrams:
+      - docs/advanced/cabling/index.md
+      - AV System: docs/advanced/cabling/AV_system.md
+      - Networking: docs/advanced/cabling/networking.md
+      - Computer: docs/advanced/cabling/computer.md
+    - Password Repository:
+      - docs/advanced/passwords/index.md
+      - Accessing: docs/advanced/passwords/accessing.md
+      - Adding Passwords: docs/advanced/passwords/addng.md
+      - Editing Passwords: docs/advanced/passwords/editing.md
+      - Removing Passwords: docs/advanced/passwords/removing.md
+    - Backup Files Repository: 
+      - docs/advanced/backups/index.md
+      - Router: docs/advanced/backups/router_configs.md
+      - PTZ Camera: docs/advanced/backups/ptz_camera_configs.md
+      - OBS:
+        - docs/advanced/backups/OBS/index.md
+        - Streaming Instance Scenes: docs/advanced/backups/OBS/streaming_scenes.md
+        - All Cameras Entire Instance: docs/advanced/backups/OBS/all_cameras.md
+      - Password Repository:
+        - docs/advanced/backups/passwords/index.md
+        - Database: docs/advanced/backups/passwords/database.md
+        - Security Key: docs/advanced/backups/passwords/security_key.md
+    - Router: 
+      - docs/advanced/router/index.md
+      - Settings:
+        - docs/advanced/router/settings/index.md
+        - (list settings that are noteworthy here): docs/advanced/router/settings/list.md
   - PDF: pdf/document.pdf

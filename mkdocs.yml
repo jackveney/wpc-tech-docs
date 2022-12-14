@@ -118,7 +118,8 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-  - General Instructions: docs/general/index.md
+  - General Instructions:
+    - docs/general/index.md
     - Listing of Technology Hardware Parts: docs/general/parts-listing.md
     - Switching To COW Internet: docs/general/internet.md
     - Setting Up and Powering On Computer / Cameras / Sound System / Projector: docs/general/setting-up-powering-on.md

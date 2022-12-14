@@ -16,7 +16,7 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
     # - navigation.instant
     # - navigation.prune
@@ -31,13 +31,15 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: indigo
       accent: indigo
       toggle:
@@ -53,6 +55,12 @@ theme:
 
 markdown_extensions:
   - tables
+  - pymdownx.keys
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
 
 copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 plugins:
@@ -85,8 +93,8 @@ plugins:
       #    - 'release-notes/:changelog'
       #
       exclude_pages:
-          - 'TechDocs/parts-listing'
-          - 'about/'
+      #    - 'TechDocs/parts-listing'
+      #    - 'about/'
       #    - 'PTZ_Camera/'
       #    - 'appendix/contribute/'
       #convert_iframe:
@@ -124,6 +132,83 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
-  - PTZ Camera:
-    - Camera Presets: PTZ_Camera/camera-presets.md
+  - Cameras: TechDocs/cameras/index.md
+    - PTZ Camera: TechDocs/cameras/PTZ/index.md
+      - Logging into Camera: TechDocs/cameras/PTZ/logging_in.md
+      - Listing of Current Presets: TechDocs/cameras/PTZ/presets_list.md
+      - Setting Camera Presets: TechDocs/cameras/PTZ/presets_add.md
+      - Adding Camera Presets to Streamdeck: TechDocs/cameras/PTZ/presets_streamdeck.md
+      - Camera Settings: TechDocs/cameras/PTZ/settings/index.md
+        - (list settings that are noteworthy here): TechDocs/cameras/PTZ/settings/list.md
+    - Mevo Cameras: TechDocs/cameras/mevo/index.md
+      - Connecting to Cameras: TechDocs/cameras/mevo/connecting.md
+      - Camera Settings: TechDocs/cameras/mevo/settings/index.md
+        - (list settings that are noteworthy here): TechDocs/cameras/mevo/settings/list.md
+  - Computer: TechDocs/computer/index.md
+    - OBS Studio:
+      - Streaming Instance:
+        - Recording Settings:
+        - Streaming Settings:
+        - Outgoing Stream to "Security View" Instance:
+        - Adding Scenes:
+        - Adding Sources:
+          - Mevo Cameras:
+          - PTZ Camera:
+          - Proclaim:
+          - Powerpoint:
+          - Sound System:
+      - "Security View" Instance:
+        - Recording Settings:
+        - Sources:
+          - Mevo Cameras:
+          - PTZ Camera:
+          - Proclaim:
+          - Powerpoint:
+          - Sound System:
+          - Outgoing Streams:
+    - Proclaim:
+      - Opening Slides for Current Week:
+      - Starting Slides:
+      - Screen Settings:
+      - NDI Settings:
+    - Streamdeck:
+      - OBS Scenes:
+      - OBS Recording & Streaming Controls:
+      - PTZ Camera Presets:
+    - Youtube:
+      - Scheduling Livestream:
+      - Starting Livestream:
+      - Stopping Livestream:
+    - Facebook Live:
+      - Scheduling Livestream:
+      - Starting Livestream:
+      - Stopping Livestream:
+    - Performing Maintanince:
+      - CCleaner:
+      - Dell Support Assist:
+      - Windows Update:
+      - Graphics Card Update:
+      - Proclaim Updates:
+      - OBS Updates:
+        - Streaming Instance:
+        - "Security View" Instance:
+        - Plugins:
+  - Advanced Information: TechDocs/advanced/index.md
+    - Technology Listing:
+      - Hardware Listing:
+      - Software Listing:
+      - Technology Not In Use:
+    - Cabling Diagrams:
+      - AV System:
+      - Networking:
+    - Password Repository:
+      - Accessing:
+      - Adding Passwords:
+      - Editing Passwords:
+      - Removing Passwords:
+    - Router:
+      - Settings:
+        - (list settings that are noteworthy here):
+    - Backup Files Repository:
+      - (figure out what to go here):
   - PDF: pdf/document.pdf

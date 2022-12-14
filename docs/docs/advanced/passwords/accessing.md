@@ -6,7 +6,7 @@ This article details accessing the KeePass password database. You must have KeeP
 
 ## 1. Open KeePass
   Open KeePass on your machine. If you do not have it installed, please [follow the installation instructions here](https://keepass.info/download.html). <i>Please note that KeePass is a Windows only software.</i>
-  <br><img src="../assets/accessing/1200px-KeePass_icon.svg.png" alt="KeePass Icon" style="width:200px;"/>
+  <br><img src="../assets/accessing/1200px-KeePass_icon.svg.png" alt="KeePass Icon" style="width:1d00px;"/>
 
 ## 2. Open from URL
   Verify (or enter) the following details into the "Open from URL" text boxes:

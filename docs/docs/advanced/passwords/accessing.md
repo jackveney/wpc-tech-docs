@@ -14,10 +14,11 @@ This article details accessing the KeePass password database. You must have KeeP
   <br>**User name:** *```(see information on hidden password magnet)```*
   <br>**Password:** *```(see information on hidden password magnet)```*
   <br>**Remember:** *```Do not remember username and password```*
-  <br>*For security purposes, please do not let it remember anything other than the URL. We store sensitive data about our setup on the server and it would let people access that data who shouldn't be able to.*
+  <br>*For security purposes, please do not let it remember anything other than the URL (which it does automatically). We store sensitive data about our setup and various passwords on the server and it would let people access that data who shouldn't be able to.*
   <br><img src="../assets/accessing/open_from_url.png" alt="Open from URL Prompt"/><br> 
 
-### ***NOTE:*** If you do not automatically get the "Open from URL" prompt, click ```Cancel``` if there's a different prompt, otherwise click ```File >> Open >> Open URL...```
+### ***NOTE:***
+  If you do not automatically get the "Open from URL" prompt, click ```Cancel``` if there's a different prompt, otherwise click ```File >> Open >> Open URL...```
 
 ## 3. Open Database - WPC_Tech_Passowrds.kdbx
   Verify (or enter) the following details into the "Open Database - WPC_Tech_Passowrds.kdbx" text boxes:

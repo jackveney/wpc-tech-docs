@@ -132,7 +132,7 @@ nav:
     - Switching To Church Internet: TechDocs/internet-2.md
     - Stream Deck Icons: TechDocs/stream-deck.md
     - Changing Audio Output Device: TechDocs/audio-output.md
-  - Cameras: TechDocs/cameras/index.md
+  - Cameras: 
     - PTZ Camera: TechDocs/cameras/PTZ/index.md
       - Logging into Camera: TechDocs/cameras/PTZ/logging_in.md
       - Listing of Current Presets: TechDocs/cameras/PTZ/presets_list.md
@@ -144,7 +144,7 @@ nav:
       - Connecting to Cameras: TechDocs/cameras/mevo/connecting.md
       - Camera Settings: TechDocs/cameras/mevo/settings/index.md
         - (list settings that are noteworthy here): TechDocs/cameras/mevo/settings/list.md
-  - Computer: TechDocs/computer/index.md
+  - Computer: 
     - OBS Studio: TechDocs/computer/index.md
       - Streaming Instance: TechDocs/computer/index.md
         - Recording Settings: TechDocs/computer/index.md
@@ -193,7 +193,7 @@ nav:
         - Streaming Instance: TechDocs/computer/index.md
         - "Security View" Instance: TechDocs/computer/index.md
         - Plugins: TechDocs/computer/index.md
-  - Advanced Information: TechDocs/advanced/index.md
+  - Advanced Information: 
     - Technology Listing: TechDocs/computer/index.md
       - Hardware Listing: TechDocs/computer/index.md
       - Software Listing: TechDocs/computer/index.md

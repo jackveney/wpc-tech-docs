@@ -3,11 +3,15 @@ site_name: WPC Technology Documentation
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
 edit_uri: ""
-site_url: https://wpc.veney.org
 extra_css:
   - 'css/extra.css'
 
+extra:
+  version:
+    provider: mike
+
 site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
+
 site_author: Jack Veney
 theme:
   name: material
@@ -63,7 +67,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-copyright: Copyright &copy; 2022 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
+copyright: Copyright &copy; 2023 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 plugins:
   - search:
       lang: en
@@ -83,40 +87,46 @@ plugins:
       #
       cover: true
       back_cover: true
-      #cover_title: TITLE TEXT
-      cover_subtitle: 2022 Updates
+      cover_title: Technology Documentation
+      cover_subtitle: Westminster Presbyterian Church - Mackey Hall Technology
       cover_logo: assets/images/banner.png
       #custom_template_path: TEMPLATES PATH
       #
       toc_title: Table of Contents
       #heading_shift: false
-      #toc_level: 3
+      toc_level: 3
       #ordered_chapter_level: 2
       #excludes_children:
       #    - 'release-notes/:upgrading'
       #    - 'release-notes/:changelog'
       #
       exclude_pages:
-      #    - 'docs/parts-listing'
-      #    - 'about/'
-      #    - 'PTZ_Camera/'
-      #    - 'appendix/contribute/'
+        - "changelog/"
       #convert_iframe:
       #    - src: IFRAME SRC
       #      img: POSTER IMAGE URL
       #      text: ALTERNATE TEXT
       #    - src: ...
-      #two_columns_level: 3
+      two_columns_level: 3
       #
       #render_js: true
       #headless_chrome_path: headless-chromium
       #
-      #output_path: any-place/document.pdf
-      enabled_if_env: ENABLE_PDF_EXPORT
+      output_path: pdf/document.pdf
+      #enabled_if_env: ENABLE_PDF_EXPORT
       #
       #debug_html: true
       #show_anchors: true
       #verbose: true
+  - mike:
+      # These fields are all optional; the defaults are as below...
+      alias_type: symlink
+      redirect_template: null
+      deploy_prefix: ""
+      canonical_version: null
+      version_selector: true
+      css_dir: css
+      javascript_dir: js
 
 # Page tree
 nav:

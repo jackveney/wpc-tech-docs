@@ -1,17 +1,17 @@
 # Technology Not In Service
 
-## Canon VIXIA HF R800
+The following technology items are currently not in service. Please note their purchase dates for reference:
 
-*   _**Purchased November/December 2020**_
+## Canon VIXIA HF R800
+- **Purchase Date: *`November/December 2020`***
 
 ## Dell xxx Laptop
-
-*   _**Purchased yyyy**_
+- **Purchase Date: *`??`***
 
 ## Basic Capture Card
-
-*   _**Purchased yyyy**_
+- **Purchase Date: *`??`***
 
 ## AVerMedia Live Gamer Mini
+- **Purchase Date: *`??`***
 
-*   _**Purchased yyyy**_
+Please be aware that these items are currently not available for use.

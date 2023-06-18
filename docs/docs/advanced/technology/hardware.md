@@ -1,110 +1,86 @@
-## Listing of Technology Hardware Parts
+# Listing of Technology Hardware Parts
 
-# Computer
-## Dell XPS 8940 Gaming Desktop
+Welcome to the comprehensive listing of various technology hardware parts and peripherals used in our setup. Below, you'll find detailed descriptions and specifications for each item, ensuring clarity and easy reference.
 
-*   Intel Core i7-10700 2.9GHz Processor
-*   NVIDIA GeForce GTX 1660 Super 6GB GDDR6
-*   32GB DDR4-2933 RAM
-*   1TB NVMe M.2 SSD
-*   Keyboard
-*   Mouse
-*   _**Purchased February 2021**_  
-     
-
-![Dell XPS 8940 Gaming Desktop](../../../assets/images/dell_xps_desktop.jpg)
+## Computer
+### Dell XPS 8940 Gaming Desktop
+- Processor: Intel Core i7-10700 2.9GHz
+- Graphics: NVIDIA GeForce GTX 1660 Super 6GB GDDR6
+- RAM: 32GB DDR4-2933
+- Storage: 1TB NVMe M.2 SSD
+- Accessories: Keyboard, Mouse
+- **Purchase Date: *`February 2021`***
 
 ## Upgrades
 
-###   Elgato Game Capture HD60 Pro
-*   Captures HDMI output from PTZ Camera
-*   _**Purchased Summer 2021**_  
-    ![Elgato Game Capture HD60 Pro](../../../assets/images/hd_60_pro.jpg)
+### Elgato Game Capture HD60 Pro
+- Purpose: Captures HDMI output from PTZ Camera
+- **Purchase Date: *`Summer 2021`***
 
-###   TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card
-*   Connects Ethernet from WPC_Cameras router to coputer to access Mevo cameras and PTZ Camera
-*   _**Purchased May 2022**_  
-    ![TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card](../../../assets/images/ethernet_pci_express.jpg)
+### TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card
+- Purpose: Connects Ethernet from WPC_Cameras router to computer for Mevo cameras and PTZ Camera access
+- **Purchase Date: *`May 2022`***
 
-###   Samsung 870 EVO SATA III SSD 1TB 2.5” Internal Solid State Drive
-*   Drive for storage of video recordings
-*   _**Purchased May 2022**_  
-    ![SAMSUNG 870 EVO SATA III SSD 1TB 2.5” Internal Solid State Drive](../../../assets/images/advanced/technology/hardware/samsung870evo.jpg)
+### Samsung 870 EVO SATA III SSD 1TB 2.5” Internal Solid State Drive
+- Purpose: Storage drive for video recordings
+- **Purchase Date: *`May 2022`***
 
-# Monitors
-## Dell SE2417HGX
+## Monitors
+### Dell SE2417HGX
+- Size: 24"
+- **Purchase Date: *`Two units purchased in February 2021`***
 
-*   24" Monitor
-*   _**Two Purchased February 2021**_  
-    ![Dell SE2417HGX](../../../assets/images/dell_24_monitor.jpg)
+### Dell S2721H
+- Size: 27"
+- Features: Built-in Speakers
+- **Purchase Date: *`May 2022`***
 
-## Dell S2721H
+## Peripherals
+### Elgato Stream Deck
+- Purpose: Switch between OBS scenes, start recordings/livestreams/virtual camera, and operate PTZ camera presets
+- **Purchase Date: *`May 2021`***
 
-*   27" Monitor with Built-in Speakers
-*   _**Purchased May 2022**_  
-    ![Dell S2721H](../../../assets/images/dell_27_monitor.jfif)
+## Cameras
+### Mevo Start
+- Quantity: Set of three
+- **Purchase Date: *`May 2022`***
 
-# Peripherals
-## Elgato Stream Deck
+### PTZOptics 20X-NDI Broadcast and Conference Camera
+- **Purchase Date: *`May 2022`***
 
-*   Used to switch between OBS scenes, start recordings/livestreams/virtual camera, and operate PTZ camera presets
-*   _**Purchased May 2021**_  
-    ![Elgato Stream Deck](../../../assets/images/stream_deck.jpg)
+## Sound System & Projector
+### Apple iPad
+- Additional items to be listed in the future
 
-# Cameras
+## Network Parts
+### Netgear R6700AX
+- Purpose: WPC_Cameras router
+- **Purchase Date: *`May 2022`***
 
-## Mevo Start
+### TP-Link 802.3af Gigabit PoE Injector
+- Purpose: Powers PTZ Camera and provides Ethernet connection
+- **Purchase Date: *`May 2022`***
 
-*   _**Set of Three Purchased May 2022**_  
-    ![Mevo Start](../../../assets/images/mevo_start_3x.jpg)
+## Cables
+### Monoprice Cat6A Ethernet Patch Cable - 75 Ft
+- Purpose: Ethernet cable for connecting to PTZ Camera
+- **Purchase Date: *`May 2022`***
 
-## PTZOptics 20X-NDI Broadcast and Conference Camera
+### Monoprice Cat6A Ethernet Patch Cable - 10 Ft
+- Purpose: Ethernet cable for connecting computer to WPC_Cameras router
+- **Purchase Date: *`May 2022`***
 
-*   _**Purchased May 2022**_  
-    ![PTZOptics 20X-NDI Broadcast and Conference Camera](../../../assets/images/ptz_camera.jpg)
+### Monoprice Cat6A Ethernet Patch Cable - 1 Ft
+- Purpose: Ethernet cable for patching to PoE Injector
+- **Purchase Date: *`May 2022`***
 
-# Sound System & Projector
+### Cat6 Ethernet Cable
+- Purpose: Ethernet cable for computer internet connection
+- Length: Originally 150 Ft, reterminated to a shorter length
+- **Purchase Date: *`May 2021`***
 
-## Apple iPad
+### Amazon Basics High-Speed Fiber Optic HDMI Cable - 100 Ft
+- Purpose: Cable for connecting PTZ Camera to capture card
+- **Purchase Date: *`October 2021`***
 
-## Other to be listed in time
-
-# Network Parts
-
-## Netgear R6700AX
-
-*   WPC_Cameras router
-*   _**Purchased May 2022**_
-
-## TP-Link 802.3af Gigabit PoE Injector
-
-*   Powers PTZ Camera and provides ethernet
-*   _**Purchased May 2022**_
-
-# Cables
-
-## Monoprice Cat6A Ethernet Patch Cable - 75 Ft
-
-*   Ethernet cable for connecting to PTZ Camera
-*   _**Purchased May 2022**_
-
-## Monoprice Cat6A Ethernet Patch Cable - 10 Ft
-
-*   Ethernet cable for connecting computer to WPC_Cameras router
-*   _**Purchased May 2022**_
-
-## Monoprice Cat6A Ethernet Patch Cable - 1 Ft
-
-*   Ethernet cable for patching to PoE Injector
-*   _**Purchased May 2022**_
-
-## Cat6 Ethernet Cable
-
-*   Ethernet cable for computer internet 
-*   Originally 150 Ft, Reterminated to be shorter
-*   _**Purchased May 2021**_
-
-## Amazon Basics High-Speed Fiber Optic HDMI Cable - 100 Ft
-
-*   Cable for connecting PTZ Camera to capture card
-*   _**Purchased October 2021**_
+Feel free to refer to this page whenever you need specific details about any of our technology hardware parts.

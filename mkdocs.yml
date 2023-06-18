@@ -131,7 +131,9 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - About: about.md
+  - About: 
+      - About:   about.md
+      - Changelog: changelog.md
   - General Instructions:
     - docs/general/index.md
     - Listing of Technology Hardware Parts: docs/general/parts-listing.md

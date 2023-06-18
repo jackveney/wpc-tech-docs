@@ -1,2 +1,0 @@
- 
-Dell Support Assist

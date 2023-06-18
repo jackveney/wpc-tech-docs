@@ -1,2 +1,0 @@
- 
-PTZ Controls

@@ -251,7 +251,8 @@ nav:
       - Hardware Listing: docs/advanced/technology/hardware.md
       - Software Listing: docs/advanced/technology/software.md
       - Technology Not In Use: docs/advanced/technology/not_in_use.md
-    - Cabling Diagrams: docs/advanced/cabling/index.md
+    - Cabling Diagrams:
+      - docs/advanced/cabling/index.md
     - Password Repository:
       - docs/advanced/passwords/index.md
       - Accessing: docs/advanced/passwords/accessing.md
@@ -259,18 +260,8 @@ nav:
       - Adding Passwords: docs/advanced/passwords/addng.md
       - Editing Passwords: docs/advanced/passwords/editing.md
       - Removing Passwords: docs/advanced/passwords/removing.md
-    - Backup Files Repository: 
+    - Backup Files Repository:
       - docs/advanced/backups/index.md
-      - Router: docs/advanced/backups/router_configs.md
-      - PTZ Camera: docs/advanced/backups/ptz_camera_configs.md
-      - OBS:
-        - docs/advanced/backups/OBS/index.md
-        - Streaming Instance Scenes: docs/advanced/backups/OBS/streaming_scenes.md
-        - All Cameras Entire Instance: docs/advanced/backups/OBS/all_cameras.md
-      - Password Repository:
-        - docs/advanced/backups/passwords/index.md
-        - Database: docs/advanced/backups/passwords/database.md
-        - Security Key: docs/advanced/backups/passwords/security_key.md
     - Router: 
       - docs/advanced/router/index.md
       - Settings:

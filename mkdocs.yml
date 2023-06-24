@@ -26,7 +26,6 @@ site_description: A reference for the technology located in Mackey Hall used for
 site_author: Jack Veney
 theme:
   name: material
-  custom_dir: material/
   features:
     - content.action.view
     - content.code.annotate

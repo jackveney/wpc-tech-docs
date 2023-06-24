@@ -1,4 +1,4 @@
-site_name: WPC Technology Documentation
+site_name: Insider Documentation | Westminster Presbyterian Church - Mackey Hall Technology
 
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
@@ -21,7 +21,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:jackveney03@gmail.com
 
-site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
+site_description: The Westminster Presbyterian Church Insider Technology Documentation is a reference guide for using the technology in Mackey Hall.
 
 site_author: Jack Veney
 theme:

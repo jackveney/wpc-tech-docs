@@ -9,6 +9,17 @@ extra_css:
 extra:
   version:
     provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jackveney/wpc-tech-docs
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/wpcwooster
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/wpc_wooster
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/westminsterwooster
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:jackveney03@gmail.com
 
 site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
 
@@ -17,7 +28,10 @@ theme:
   name: material
   custom_dir: material/
   features:
+    - content.action.view
     - content.code.annotate
+    - content.code.copy
+    - navigation.footer
     # - content.tabs.link
     - content.tooltips
     # - header.autohide

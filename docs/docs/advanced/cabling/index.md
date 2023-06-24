@@ -1,7 +1,5 @@
 # Cabling Diagrams
 
-# Cable Diagrams
-
 Welcome to the cable diagrams page, where you can find visual representations of the cable setups for various components in our technology infrastructure. Below are the links to the cable diagrams:
 
 ---

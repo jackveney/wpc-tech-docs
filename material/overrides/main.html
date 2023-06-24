@@ -3,15 +3,12 @@
 -#}
 {% extends "base.html" %}
 {% block extrahead %}
-  <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/main.82a244a8.min.css' | url }}">
+  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.f7ec4df2.min.css' | url }}">
 {% endblock %}
-<!--{% block announce %}
+{% block announce %}
 
-{% endblock %}-->
-{% block content %}
-  {% include "overrides/partials/content.html" %}
 {% endblock %}
 {% block scripts %}
   {{ super() }}
-  <script src="{{ 'overrides/assets/javascripts/bundle.1ff6d521.min.js' | url }}"></script>
+  <script src="{{ 'assets/javascripts/custom.13133f3f.min.js' | url }}"></script>
 {% endblock %}

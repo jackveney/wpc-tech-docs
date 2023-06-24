@@ -2,6 +2,8 @@
 
 The following technology items are currently not in service. Please note their purchase dates for reference:
 
+---
+
 ## Canon VIXIA HF R800
 - **Purchase Date: *`November/December 2020`***
 

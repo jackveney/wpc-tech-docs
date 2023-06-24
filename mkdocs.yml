@@ -1,4 +1,4 @@
-site_name: WPC Technology Documentation
+site_name: Insider Documentation | Westminster Presbyterian Church - Mackey Hall Technology
 
 repo_name: jackveney/wpc-tech-docs
 repo_url: https://github.com/jackveney/wpc-tech-docs
@@ -9,15 +9,29 @@ extra_css:
 extra:
   version:
     provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jackveney/wpc-tech-docs
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/wpcwooster
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/wpc_wooster
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/westminsterwooster
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:jackveney03@gmail.com
 
-site_description: A reference for the technology located in Mackey Hall used for running and livestreaming services.
+site_description: The Westminster Presbyterian Church Insider Technology Documentation is a reference guide for using the technology in Mackey Hall.
 
 site_author: Jack Veney
 theme:
   name: material
-  custom_dir: material/
+  custom_dir: material/overrides
   features:
+    - content.action.view
     - content.code.annotate
+    - content.code.copy
+    - navigation.footer
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
@@ -254,9 +268,6 @@ nav:
       - Technology Not In Use: docs/advanced/technology/not_in_use.md
     - Cabling Diagrams:
       - docs/advanced/cabling/index.md
-      - AV System: docs/advanced/cabling/AV_system.md
-      - Networking: docs/advanced/cabling/networking.md
-      - Computer: docs/advanced/cabling/computer.md
     - Password Repository:
       - docs/advanced/passwords/index.md
       - Accessing: docs/advanced/passwords/accessing.md
@@ -264,18 +275,8 @@ nav:
       - Adding Passwords: docs/advanced/passwords/addng.md
       - Editing Passwords: docs/advanced/passwords/editing.md
       - Removing Passwords: docs/advanced/passwords/removing.md
-    - Backup Files Repository: 
+    - Backup Files Repository:
       - docs/advanced/backups/index.md
-      - Router: docs/advanced/backups/router_configs.md
-      - PTZ Camera: docs/advanced/backups/ptz_camera_configs.md
-      - OBS:
-        - docs/advanced/backups/OBS/index.md
-        - Streaming Instance Scenes: docs/advanced/backups/OBS/streaming_scenes.md
-        - All Cameras Entire Instance: docs/advanced/backups/OBS/all_cameras.md
-      - Password Repository:
-        - docs/advanced/backups/passwords/index.md
-        - Database: docs/advanced/backups/passwords/database.md
-        - Security Key: docs/advanced/backups/passwords/security_key.md
     - Router: 
       - docs/advanced/router/index.md
       - Settings:

@@ -2,6 +2,8 @@
 
 Welcome to the comprehensive listing of various technology hardware parts and peripherals used in our setup. Below, you'll find detailed descriptions and specifications for each item, ensuring clarity and easy reference.
 
+---
+
 ## Computer
 ### Dell XPS 8940 Gaming Desktop
 - Processor: Intel Core i7-10700 2.9GHz

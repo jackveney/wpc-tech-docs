@@ -66,6 +66,7 @@ markdown_extensions:
       custom_checkbox: true
   - attr_list
   - md_in_html
+  - open-in-new-tab
 
 copyright: Copyright &copy; 2023 Jack Veney - Westminster Presbyterian Church Wooster, Ohio
 plugins:

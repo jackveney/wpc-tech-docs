@@ -251,11 +251,7 @@ nav:
       - Hardware Listing: docs/advanced/technology/hardware.md
       - Software Listing: docs/advanced/technology/software.md
       - Technology Not In Use: docs/advanced/technology/not_in_use.md
-    - Cabling Diagrams:
-      - docs/advanced/cabling/index.md
-      - AV System: docs/advanced/cabling/AV_system.md
-      - Networking: docs/advanced/cabling/networking.md
-      - Computer: docs/advanced/cabling/computer.md
+    - Cabling Diagrams: docs/advanced/cabling/index.md
     - Password Repository:
       - docs/advanced/passwords/index.md
       - Accessing: docs/advanced/passwords/accessing.md
